@@ -4,7 +4,7 @@ An unofficial Traditional Chinese translation for [Breakdance](https://breakdanc
 
 **1,869 unique strings translated.** Installed and verified in production on Breakdance 3.0.
 
-Built and maintained by [MoTech](https://onemore-dl9s.1wp.site), a web design studio in Taiwan. Offered to Soflyy and the community free of charge — see [Licence](#licence).
+Built and maintained by MoTech, a web design studio in Taiwan. Offered to Soflyy and the community free of charge — see [Licence](#licence).
 
 ---
 
