@@ -1,0 +1,5831 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Breakdance\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: kevin-bd-zhtw\n"
+
+msgid "Action"
+msgstr "動作"
+
+msgid "Actions"
+msgstr "動作"
+
+msgid "Active"
+msgstr "作用中"
+
+msgid "Add Class"
+msgstr "新增 class"
+
+msgid "Add Preset"
+msgstr "新增預設樣式"
+
+msgid "Address"
+msgstr "地址"
+
+msgid "Advanced"
+msgstr "進階"
+
+msgid "After"
+msgstr "之後"
+
+msgid "After Icon"
+msgstr "圖示之後"
+
+msgid "Alignment"
+msgstr "對齊方式"
+
+msgid "All"
+msgstr "全部"
+
+msgid "Amount"
+msgstr "數量"
+
+msgid "Animation"
+msgstr "動畫"
+
+msgid "Animation Type"
+msgstr "動畫類型"
+
+msgid "Animations"
+msgstr "動畫"
+
+msgid "Attribute"
+msgstr "屬性"
+
+msgid "Attribute Name"
+msgstr "屬性名稱"
+
+msgid "Attribute Value"
+msgstr "屬性值"
+
+msgid "Attributes"
+msgstr "屬性"
+
+msgid "Author"
+msgstr "作者"
+
+msgid "Author Avatar"
+msgstr "作者頭像"
+
+msgid "Autoplay"
+msgstr "自動播放"
+
+msgid "Background"
+msgstr "背景"
+
+msgid "Background Color"
+msgstr "背景顏色"
+
+msgid "Bar"
+msgstr "長條"
+
+msgid "Before"
+msgstr "之前"
+
+msgid "Blur"
+msgstr "模糊"
+
+msgid "Blur Amount"
+msgstr "模糊程度"
+
+msgid "Body"
+msgstr "內文"
+
+msgid "Border Color"
+msgstr "邊框顏色"
+
+msgid "Borders"
+msgstr "邊框"
+
+msgid "Bottom"
+msgstr "下"
+
+msgid "Brand"
+msgstr "品牌"
+
+msgid "Buttons"
+msgstr "按鈕"
+
+msgid "CSS Code"
+msgstr "CSS 程式碼"
+
+msgid "Cart"
+msgstr "購物車"
+
+msgid "Categories"
+msgstr "分類"
+
+msgid "Center"
+msgstr "置中"
+
+msgid "Classes"
+msgstr "Class"
+
+msgid "Close"
+msgstr "關閉"
+
+msgid "Color"
+msgstr "顏色"
+
+msgid "Colors"
+msgstr "顏色"
+
+msgid "Column Gap"
+msgstr "欄間距"
+
+msgid "Columns"
+msgstr "多欄"
+
+msgid "Components"
+msgstr "元件組"
+
+msgid "Conditions"
+msgstr "條件"
+
+msgid "Content"
+msgstr "內容"
+
+msgid "Control Slider"
+msgstr "控制項滑桿"
+
+msgctxt "Control label"
+msgid "50% Width"
+msgstr "50% 寬度"
+
+msgctxt "Control label"
+msgid "Above Button"
+msgstr "按鈕上方"
+
+msgctxt "Control label"
+msgid "Above Label"
+msgstr "標籤上方"
+
+msgctxt "Control label"
+msgid "Above Products"
+msgstr "商品上方"
+
+msgctxt "Control label"
+msgid "Accent"
+msgstr "強調色"
+
+msgctxt "Control label"
+msgid "Accent Style"
+msgstr "強調樣式"
+
+msgctxt "Control label"
+msgid "Accent Text"
+msgstr "強調文字"
+
+msgctxt "Control label"
+msgid "Accessibility"
+msgstr "無障礙"
+
+msgctxt "Control label"
+msgid "Accordion"
+msgstr "摺疊面板"
+
+msgctxt "Control label"
+msgid "Action Type"
+msgstr "動作類型"
+
+msgctxt "Control label"
+msgid "Actions"
+msgstr "動作"
+
+msgctxt "Control label"
+msgid "Active"
+msgstr "作用中"
+
+msgctxt "Control label"
+msgid "Active Color"
+msgstr "作用中顏色"
+
+msgctxt "Control label"
+msgid "Active Icon"
+msgstr "作用中圖示"
+
+msgctxt "Control label"
+msgid "Active Tab"
+msgstr "作用中頁籤"
+
+msgctxt "Control label"
+msgid "Active Title"
+msgstr "作用中標題"
+
+msgctxt "Control label"
+msgid "Add Column"
+msgstr "新增欄"
+
+msgctxt "Control label"
+msgid "Add Content"
+msgstr "新增內容"
+
+msgctxt "Control label"
+msgid "Add Elements"
+msgstr "新增元件"
+
+msgctxt "Control label"
+msgid "Add Slide"
+msgstr "新增輪播項目"
+
+msgctxt "Control label"
+msgid "Additional Section"
+msgstr "附加區段"
+
+msgctxt "Control label"
+msgid "Address"
+msgstr "地址"
+
+msgctxt "Control label"
+msgid "Advanced"
+msgstr "進階"
+
+msgctxt "Control label"
+msgid "After"
+msgstr "之後"
+
+msgctxt "Control label"
+msgid "After Avatar"
+msgstr "頭像之後"
+
+msgctxt "Control label"
+msgid "After Button"
+msgstr "按鈕之後"
+
+msgctxt "Control label"
+msgid "After Cart"
+msgstr "購物車之後"
+
+msgctxt "Control label"
+msgid "After Comment"
+msgstr "留言之後"
+
+msgctxt "Control label"
+msgid "After Contents"
+msgstr "內容之後"
+
+msgctxt "Control label"
+msgid "After Date"
+msgstr "日期之後"
+
+msgctxt "Control label"
+msgid "After Dropdown"
+msgstr "下拉選單之後"
+
+msgctxt "Control label"
+msgid "After Features"
+msgstr "特色之後"
+
+msgctxt "Control label"
+msgid "After Footer"
+msgstr "頁尾之後"
+
+msgctxt "Control label"
+msgid "After Graphic"
+msgstr "圖形之後"
+
+msgctxt "Control label"
+msgid "After Graphics"
+msgstr "圖形之後"
+
+msgctxt "Control label"
+msgid "After Heading"
+msgstr "標題之後"
+
+msgctxt "Control label"
+msgid "After Icon"
+msgstr "圖示之後"
+
+msgctxt "Control label"
+msgid "After Image"
+msgstr "圖片之後"
+
+msgctxt "Control label"
+msgid "After Item"
+msgstr "項目之後"
+
+msgctxt "Control label"
+msgid "After Label"
+msgstr "標籤之後"
+
+msgctxt "Control label"
+msgid "After Labels"
+msgstr "標籤之後"
+
+msgctxt "Control label"
+msgid "After Meta"
+msgstr "文章資訊之後"
+
+msgctxt "Control label"
+msgid "After Name"
+msgstr "名稱之後"
+
+msgctxt "Control label"
+msgid "After Notice"
+msgstr "通知之後"
+
+msgctxt "Control label"
+msgid "After Number"
+msgstr "數字之後"
+
+msgctxt "Control label"
+msgid "After Quote"
+msgstr "引言之後"
+
+msgctxt "Control label"
+msgid "After Reviews"
+msgstr "評論之後"
+
+msgctxt "Control label"
+msgid "After Stars"
+msgstr "星級之後"
+
+msgctxt "Control label"
+msgid "After Subtotal"
+msgstr "小計之後"
+
+msgctxt "Control label"
+msgid "After Text"
+msgstr "文字之後"
+
+msgctxt "Control label"
+msgid "After Title"
+msgstr "標題之後"
+
+msgctxt "Control label"
+msgid "After Titles"
+msgstr "標題之後"
+
+msgctxt "Control label"
+msgid "After Top Bar"
+msgstr "頂部橫幅之後"
+
+msgctxt "Control label"
+msgid "Alert"
+msgstr "警告訊息"
+
+msgctxt "Control label"
+msgid "Align"
+msgstr "對齊"
+
+msgctxt "Control label"
+msgid "Align Children"
+msgstr "子元件對齊"
+
+msgctxt "Control label"
+msgid "Align Content"
+msgstr "內容對齊"
+
+msgctxt "Control label"
+msgid "Align Items"
+msgstr "項目對齊"
+
+msgctxt "Control label"
+msgid "Align Self"
+msgstr "自身對齊"
+
+msgctxt "Control label"
+msgid "Alignment"
+msgstr "對齊方式"
+
+msgctxt "Control label"
+msgid "All Filter"
+msgstr "全部篩選"
+
+msgctxt "Control label"
+msgid "All Label"
+msgstr "全部標籤"
+
+msgctxt "Control label"
+msgid "All Posts Link"
+msgstr "所有文章連結"
+
+msgctxt "Control label"
+msgid "All Swatches"
+msgstr "所有色票"
+
+msgctxt "Control label"
+msgid "Allow Overflow"
+msgstr "允許內容溢出"
+
+msgctxt "Control label"
+msgid "Allow Scroll"
+msgstr "允許捲動"
+
+msgctxt "Control label"
+msgid "Alt"
+msgstr "替代文字"
+
+msgctxt "Control label"
+msgid "Alternates"
+msgstr "交替"
+
+msgctxt "Control label"
+msgid "Amount"
+msgstr "數量"
+
+msgctxt "Control label"
+msgid "Amplitude"
+msgstr "振幅"
+
+msgctxt "Control label"
+msgid "Angle"
+msgstr "角度"
+
+msgctxt "Control label"
+msgid "Animate Once"
+msgstr "只播放一次"
+
+msgctxt "Control label"
+msgid "Animation"
+msgstr "動畫"
+
+msgctxt "Control label"
+msgid "Animation Type"
+msgstr "動畫類型"
+
+msgctxt "Control label"
+msgid "Annotate"
+msgstr "標註"
+
+msgctxt "Control label"
+msgid "Answer"
+msgstr "答案"
+
+msgctxt "Control label"
+msgid "Areas"
+msgstr "區域"
+
+msgctxt "Control label"
+msgid "Aria Label"
+msgstr "Aria 標籤"
+
+msgctxt "Control label"
+msgid "Around Number"
+msgstr "數字周圍"
+
+msgctxt "Control label"
+msgid "Around Review"
+msgstr "評論周圍"
+
+msgctxt "Control label"
+msgid "Arrow"
+msgstr "箭頭"
+
+msgctxt "Control label"
+msgid "Arrow Size"
+msgstr "箭頭大小"
+
+msgctxt "Control label"
+msgid "Arrows"
+msgstr "箭頭"
+
+msgctxt "Control label"
+msgid "Aspect Ratio"
+msgstr "長寬比"
+
+msgctxt "Control label"
+msgid "Asset Url"
+msgstr "資源網址"
+
+msgctxt "Control label"
+msgid "Attachment"
+msgstr "背景附著"
+
+msgctxt "Control label"
+msgid "Attributes"
+msgstr "屬性"
+
+msgctxt "Control label"
+msgid "Author"
+msgstr "作者"
+
+msgctxt "Control label"
+msgid "Author Avatar"
+msgstr "作者頭像"
+
+msgctxt "Control label"
+msgid "Author Info"
+msgstr "作者資訊"
+
+msgctxt "Control label"
+msgid "Auto Animation"
+msgstr "自動動畫"
+
+msgctxt "Control label"
+msgid "Auto Height"
+msgstr "自動高度"
+
+msgctxt "Control label"
+msgid "Autoplay"
+msgstr "自動播放"
+
+msgctxt "Control label"
+msgid "Avatar"
+msgstr "頭像"
+
+msgctxt "Control label"
+msgid "Back Delay"
+msgstr "回刪延遲"
+
+msgctxt "Control label"
+msgid "Back Speed"
+msgstr "回刪速度"
+
+msgctxt "Control label"
+msgid "Backdrop"
+msgstr "背景遮罩"
+
+msgctxt "Control label"
+msgid "Background"
+msgstr "背景"
+
+msgctxt "Control label"
+msgid "Background A"
+msgstr "背景 A"
+
+msgctxt "Control label"
+msgid "Background B"
+msgstr "背景 B"
+
+msgctxt "Control label"
+msgid "Background Bar"
+msgstr "背景長條"
+
+msgctxt "Control label"
+msgid "Background Color"
+msgstr "背景顏色"
+
+msgctxt "Control label"
+msgid "Backorder"
+msgstr "延期交貨"
+
+msgctxt "Control label"
+msgid "Badge"
+msgstr "徽章"
+
+msgctxt "Control label"
+msgid "Bar"
+msgstr "長條"
+
+msgctxt "Control label"
+msgid "Bar Height"
+msgstr "長條高度"
+
+msgctxt "Control label"
+msgid "Bar Radius"
+msgstr "長條圓角"
+
+msgctxt "Control label"
+msgid "Bar Spacing"
+msgstr "長條間距"
+
+msgctxt "Control label"
+msgid "Bar Style"
+msgstr "長條樣式"
+
+msgctxt "Control label"
+msgid "Bar Width"
+msgstr "長條寬度"
+
+msgctxt "Control label"
+msgid "Base"
+msgstr "基準"
+
+msgctxt "Control label"
+msgid "Before"
+msgstr "之前"
+
+msgctxt "Control label"
+msgid "Before Amount"
+msgstr "數量之前"
+
+msgctxt "Control label"
+msgid "Before Author"
+msgstr "作者之前"
+
+msgctxt "Control label"
+msgid "Before Badge"
+msgstr "徽章之前"
+
+msgctxt "Control label"
+msgid "Before Button"
+msgstr "按鈕之前"
+
+msgctxt "Control label"
+msgid "Before Price"
+msgstr "價格之前"
+
+msgctxt "Control label"
+msgid "Before Text"
+msgstr "文字之前"
+
+msgctxt "Control label"
+msgid "Below Author"
+msgstr "作者下方"
+
+msgctxt "Control label"
+msgid "Below Header"
+msgstr "頁首下方"
+
+msgctxt "Control label"
+msgid "Below Headings"
+msgstr "標題下方"
+
+msgctxt "Control label"
+msgid "Below Icon"
+msgstr "圖示下方"
+
+msgctxt "Control label"
+msgid "Below Image"
+msgstr "圖片下方"
+
+msgctxt "Control label"
+msgid "Below Item"
+msgstr "項目下方"
+
+msgctxt "Control label"
+msgid "Below Name"
+msgstr "名稱下方"
+
+msgctxt "Control label"
+msgid "Below Number"
+msgstr "數字下方"
+
+msgctxt "Control label"
+msgid "Below Only"
+msgstr "僅下方"
+
+msgctxt "Control label"
+msgid "Below Stars"
+msgstr "星級下方"
+
+msgctxt "Control label"
+msgid "Below Tabs"
+msgstr "頁籤下方"
+
+msgctxt "Control label"
+msgid "Below Title"
+msgstr "標題下方"
+
+msgctxt "Control label"
+msgid "Below Toggle"
+msgstr "切換鈕下方"
+
+msgctxt "Control label"
+msgid "Between Fields"
+msgstr "欄位之間"
+
+msgctxt "Control label"
+msgid "Between Images"
+msgstr "圖片之間"
+
+msgctxt "Control label"
+msgid "Between Inputs"
+msgstr "輸入框之間"
+
+msgctxt "Control label"
+msgid "Between Items"
+msgstr "項目之間"
+
+msgctxt "Control label"
+msgid "Between Links"
+msgstr "連結之間"
+
+msgctxt "Control label"
+msgid "Between Logos"
+msgstr "Logo 之間"
+
+msgctxt "Control label"
+msgid "Between Posts"
+msgstr "文章之間"
+
+msgctxt "Control label"
+msgid "Between Slides"
+msgstr "輪播項目之間"
+
+msgctxt "Control label"
+msgid "Between Stars"
+msgstr "星級之間"
+
+msgctxt "Control label"
+msgid "Big"
+msgstr "大"
+
+msgctxt "Control label"
+msgid "Biography"
+msgstr "個人簡介"
+
+msgctxt "Control label"
+msgid "Black & White"
+msgstr "黑白"
+
+msgctxt "Control label"
+msgid "Blend Mode"
+msgstr "混合模式"
+
+msgctxt "Control label"
+msgid "Block"
+msgstr "區塊"
+
+msgctxt "Control label"
+msgid "Blocks"
+msgstr "區塊"
+
+msgctxt "Control label"
+msgid "Blur Amount"
+msgstr "模糊程度"
+
+msgctxt "Control label"
+msgid "Border"
+msgstr "邊框"
+
+msgctxt "Control label"
+msgid "Border Color"
+msgstr "邊框顏色"
+
+msgctxt "Control label"
+msgid "Border Effect"
+msgstr "邊框效果"
+
+msgctxt "Control label"
+msgid "Border Radius"
+msgstr "圓角"
+
+msgctxt "Control label"
+msgid "Border Width"
+msgstr "邊框寬度"
+
+msgctxt "Control label"
+msgid "Borders"
+msgstr "邊框"
+
+msgctxt "Control label"
+msgid "Borders Hover"
+msgstr "邊框（滑鼠移入）"
+
+msgctxt "Control label"
+msgid "Bottom"
+msgstr "下"
+
+msgctxt "Control label"
+msgid "Box"
+msgstr "方塊"
+
+msgctxt "Control label"
+msgid "Box Shadow"
+msgstr "方塊陰影"
+
+msgctxt "Control label"
+msgid "Boxed"
+msgstr "盒狀"
+
+msgctxt "Control label"
+msgid "Brackets"
+msgstr "括號"
+
+msgctxt "Control label"
+msgid "Brand"
+msgstr "品牌"
+
+msgctxt "Control label"
+msgid "Breadcrumbs"
+msgstr "麵包屑導覽"
+
+msgctxt "Control label"
+msgid "Builder Label"
+msgstr "編輯器標籤"
+
+msgctxt "Control label"
+msgid "Bullet"
+msgstr "項目符號"
+
+msgctxt "Control label"
+msgid "Bullets"
+msgstr "項目符號"
+
+msgctxt "Control label"
+msgid "Button"
+msgstr "按鈕"
+
+msgctxt "Control label"
+msgid "Button Styles"
+msgstr "按鈕樣式"
+
+msgctxt "Control label"
+msgid "Button Text"
+msgstr "按鈕文字"
+
+msgctxt "Control label"
+msgid "Buttons"
+msgstr "按鈕"
+
+msgctxt "Control label"
+msgid "CSS Code"
+msgstr "CSS 程式碼"
+
+msgctxt "Control label"
+msgid "CTA Button"
+msgstr "行動呼籲按鈕"
+
+msgctxt "Control label"
+msgid "Caption"
+msgstr "圖說"
+
+msgctxt "Control label"
+msgid "Captions"
+msgstr "圖說"
+
+msgctxt "Control label"
+msgid "Caret Radius"
+msgstr "尖角圓角"
+
+msgctxt "Control label"
+msgid "Cart"
+msgstr "購物車"
+
+msgctxt "Control label"
+msgid "Categories"
+msgstr "分類"
+
+msgctxt "Control label"
+msgid "Center Slides"
+msgstr "輪播項目置中"
+
+msgctxt "Control label"
+msgid "Changing Text"
+msgstr "變換文字"
+
+msgctxt "Control label"
+msgid "Chip Text"
+msgstr "標籤片文字"
+
+msgctxt "Control label"
+msgid "Chips"
+msgstr "標籤片"
+
+msgctxt "Control label"
+msgid "Circle"
+msgstr "圓形"
+
+msgctxt "Control label"
+msgid "Classic Styles"
+msgstr "經典樣式"
+
+msgctxt "Control label"
+msgid "Clear"
+msgstr "清除"
+
+msgctxt "Control label"
+msgid "Close Button"
+msgstr "關閉按鈕"
+
+msgctxt "Control label"
+msgid "Close Icon"
+msgstr "關閉圖示"
+
+msgctxt "Control label"
+msgid "Collapse"
+msgstr "收合"
+
+msgctxt "Control label"
+msgid "Color"
+msgstr "顏色"
+
+msgctxt "Control label"
+msgid "Colors"
+msgstr "顏色"
+
+msgctxt "Control label"
+msgid "Column Gap"
+msgstr "欄間距"
+
+msgctxt "Control label"
+msgid "Column Padding"
+msgstr "欄內距"
+
+msgctxt "Control label"
+msgid "Columns"
+msgstr "多欄"
+
+msgctxt "Control label"
+msgid "Columns 2"
+msgstr "多欄 2"
+
+msgctxt "Control label"
+msgid "Comment"
+msgstr "留言"
+
+msgctxt "Control label"
+msgid "Comment on"
+msgstr "留言於"
+
+msgctxt "Control label"
+msgid "Comments"
+msgstr "留言"
+
+msgctxt "Control label"
+msgid "Components"
+msgstr "元件組"
+
+msgctxt "Control label"
+msgid "Container"
+msgstr "容器"
+
+msgctxt "Control label"
+msgid "Content"
+msgstr "內容"
+
+msgctxt "Control label"
+msgid "Content URL"
+msgstr "內容網址"
+
+msgctxt "Control label"
+msgid "Content Width"
+msgstr "內容寬度"
+
+msgctxt "Control label"
+msgid "Contents"
+msgstr "內容"
+
+msgctxt "Control label"
+msgid "Controls"
+msgstr "控制項"
+
+msgctxt "Control label"
+msgid "Corner Radius"
+msgstr "圓角半徑"
+
+msgctxt "Control label"
+msgid "Corners"
+msgstr "圓角"
+
+msgctxt "Control label"
+msgid "Count"
+msgstr "數量"
+
+msgctxt "Control label"
+msgid "Counter"
+msgstr "計數器"
+
+msgctxt "Control label"
+msgid "Coverflow"
+msgstr "Coverflow"
+
+msgctxt "Control label"
+msgid "Cross Color"
+msgstr "叉號顏色"
+
+msgctxt "Control label"
+msgid "Currency X"
+msgstr "貨幣符號 X 位置"
+
+msgctxt "Control label"
+msgid "Currency Y"
+msgstr "貨幣符號 Y 位置"
+
+msgctxt "Control label"
+msgid "Cursor"
+msgstr "滑鼠游標"
+
+msgctxt "Control label"
+msgid "Custom"
+msgstr "自訂"
+
+msgctxt "Control label"
+msgid "Custom Alt"
+msgstr "自訂替代文字"
+
+msgctxt "Control label"
+msgid "Custom Areas"
+msgstr "自訂區域"
+
+msgctxt "Control label"
+msgid "Custom Arrow"
+msgstr "自訂箭頭"
+
+msgctxt "Control label"
+msgid "Custom Height"
+msgstr "自訂高度"
+
+msgctxt "Control label"
+msgid "Custom Hint"
+msgstr "自訂提示"
+
+msgctxt "Control label"
+msgid "Custom Icon"
+msgstr "自訂圖示"
+
+msgctxt "Control label"
+msgid "Custom Icons"
+msgstr "自訂圖示"
+
+msgctxt "Control label"
+msgid "Custom Label"
+msgstr "自訂標籤"
+
+msgctxt "Control label"
+msgid "Custom Ratio"
+msgstr "自訂比例"
+
+msgctxt "Control label"
+msgid "Custom Shape"
+msgstr "自訂形狀"
+
+msgctxt "Control label"
+msgid "Custom Size"
+msgstr "自訂尺寸"
+
+msgctxt "Control label"
+msgid "Custom Text"
+msgstr "自訂文字"
+
+msgctxt "Control label"
+msgid "Custom Type"
+msgstr "自訂類型"
+
+msgctxt "Control label"
+msgid "Custom URL"
+msgstr "自訂網址"
+
+msgctxt "Control label"
+msgid "Custom Width"
+msgstr "自訂寬度"
+
+msgctxt "Control label"
+msgid "Custom height"
+msgstr "自訂高度"
+
+msgctxt "Control label"
+msgid "Custom width"
+msgstr "自訂寬度"
+
+msgctxt "Control label"
+msgid "DailyMotion"
+msgstr "DailyMotion"
+
+msgctxt "Control label"
+msgid "Date Format"
+msgstr "日期格式"
+
+msgctxt "Control label"
+msgid "Day"
+msgstr "日"
+
+msgctxt "Control label"
+msgid "Day B"
+msgstr "日 B"
+
+msgctxt "Control label"
+msgid "Days"
+msgstr "天"
+
+msgctxt "Control label"
+msgid "Default"
+msgstr "預設"
+
+msgctxt "Control label"
+msgid "Delay"
+msgstr "延遲"
+
+msgctxt "Control label"
+msgid "Delete Color"
+msgstr "刪除顏色"
+
+msgctxt "Control label"
+msgid "Delimiter"
+msgstr "分隔符號"
+
+msgctxt "Control label"
+msgid "Depth"
+msgstr "深度"
+
+msgctxt "Control label"
+msgid "Description"
+msgstr "說明"
+
+msgctxt "Control label"
+msgid "Design"
+msgstr "設計"
+
+msgctxt "Control label"
+msgid "Desktop Menu"
+msgstr "電腦版選單"
+
+msgctxt "Control label"
+msgid "Digits"
+msgstr "位數"
+
+msgctxt "Control label"
+msgid "Direction"
+msgstr "方向"
+
+msgctxt "Control label"
+msgid "Disable"
+msgstr "停用"
+
+msgctxt "Control label"
+msgid "Disable Arrow"
+msgstr "停用箭頭"
+
+msgctxt "Control label"
+msgid "Disable At"
+msgstr "停用於"
+
+msgctxt "Control label"
+msgid "Disable Caret"
+msgstr "停用尖角"
+
+msgctxt "Control label"
+msgid "Disable Icon"
+msgstr "停用圖示"
+
+msgctxt "Control label"
+msgid "Disable Loop"
+msgstr "停用循環播放"
+
+msgctxt "Control label"
+msgid "Disable Woo ID"
+msgstr "停用 Woo ID"
+
+msgctxt "Control label"
+msgid "Disabled"
+msgstr "已停用"
+
+msgctxt "Control label"
+msgid "Display"
+msgstr "顯示方式"
+
+msgctxt "Control label"
+msgid "Divider"
+msgstr "分隔線"
+
+msgctxt "Control label"
+msgid "Divider Color"
+msgstr "分隔線顏色"
+
+msgctxt "Control label"
+msgid "Divider Style"
+msgstr "分隔線樣式"
+
+msgctxt "Control label"
+msgid "Divider Width"
+msgstr "分隔線寬度"
+
+msgctxt "Control label"
+msgid "Dividers"
+msgstr "分隔線"
+
+msgctxt "Control label"
+msgid "Donut"
+msgstr "圓環"
+
+msgctxt "Control label"
+msgid "Dots Color"
+msgstr "圓點顏色"
+
+msgctxt "Control label"
+msgid "Drag & Drop"
+msgstr "拖曳"
+
+msgctxt "Control label"
+msgid "Dropdown"
+msgstr "下拉選單"
+
+msgctxt "Control label"
+msgid "Dropdowns"
+msgstr "下拉選單"
+
+msgctxt "Control label"
+msgid "Duration"
+msgstr "持續時間"
+
+msgctxt "Control label"
+msgid "Ease"
+msgstr "緩動"
+
+msgctxt "Control label"
+msgid "Ease Count"
+msgstr "緩動次數"
+
+msgctxt "Control label"
+msgid "Easing In"
+msgstr "進場緩動"
+
+msgctxt "Control label"
+msgid "Easing Out"
+msgstr "退場緩動"
+
+msgctxt "Control label"
+msgid "Effect"
+msgstr "效果"
+
+msgctxt "Control label"
+msgid "Effect Type"
+msgstr "效果類型"
+
+msgctxt "Control label"
+msgid "Effects"
+msgstr "效果"
+
+msgctxt "Control label"
+msgid "Elements"
+msgstr "元件"
+
+msgctxt "Control label"
+msgid "Email Label"
+msgstr "電子郵件標籤"
+
+msgctxt "Control label"
+msgid "Emoji"
+msgstr "表情符號"
+
+msgctxt "Control label"
+msgid "Enable"
+msgstr "啟用"
+
+msgctxt "Control label"
+msgid "End"
+msgstr "結束"
+
+msgctxt "Control label"
+msgid "End Time"
+msgstr "結束時間"
+
+msgctxt "Control label"
+msgid "Entrance"
+msgstr "進場"
+
+msgctxt "Control label"
+msgid "Error"
+msgstr "錯誤"
+
+msgctxt "Control label"
+msgid "Event"
+msgstr "事件"
+
+msgctxt "Control label"
+msgid "Events"
+msgstr "事件"
+
+msgctxt "Control label"
+msgid "Excerpt"
+msgstr "摘要"
+
+msgctxt "Control label"
+msgid "Excerpt Length"
+msgstr "摘要長度"
+
+msgctxt "Control label"
+msgid "Excluded Color"
+msgstr "排除的顏色"
+
+msgctxt "Control label"
+msgid "Excluded Icon"
+msgstr "排除的圖示"
+
+msgctxt "Control label"
+msgid "Exit"
+msgstr "離開"
+
+msgctxt "Control label"
+msgid "Expire"
+msgstr "到期"
+
+msgctxt "Control label"
+msgid "Expire Type"
+msgstr "到期類型"
+
+msgctxt "Control label"
+msgid "Extra Large"
+msgstr "特大"
+
+msgctxt "Control label"
+msgid "Extra Small"
+msgstr "特小"
+
+msgctxt "Control label"
+msgid "Facebook App"
+msgstr "Facebook 應用程式"
+
+msgctxt "Control label"
+msgid "Facet"
+msgstr "篩選器"
+
+msgctxt "Control label"
+msgid "Fade Content"
+msgstr "內容淡出"
+
+msgctxt "Control label"
+msgid "Fallback Image"
+msgstr "備援圖片"
+
+msgctxt "Control label"
+msgid "Features"
+msgstr "特色"
+
+msgctxt "Control label"
+msgid "Field"
+msgstr "欄位"
+
+msgctxt "Control label"
+msgid "Fields"
+msgstr "欄位"
+
+msgctxt "Control label"
+msgid "File Input"
+msgstr "檔案上傳欄"
+
+msgctxt "Control label"
+msgid "Files List"
+msgstr "檔案清單"
+
+msgctxt "Control label"
+msgid "Fill"
+msgstr "填滿"
+
+msgctxt "Control label"
+msgid "Filter"
+msgstr "篩選"
+
+msgctxt "Control label"
+msgid "Filter Bar"
+msgstr "篩選列"
+
+msgctxt "Control label"
+msgid "Flex Basis"
+msgstr "Flex 基準"
+
+msgctxt "Control label"
+msgid "Flex Child"
+msgstr "Flex 子項目"
+
+msgctxt "Control label"
+msgid "Flex Direction"
+msgstr "Flex 方向"
+
+msgctxt "Control label"
+msgid "Flex Grow"
+msgstr "Flex 放大比例"
+
+msgctxt "Control label"
+msgid "Flex Shrink"
+msgstr "Flex 縮小比例"
+
+msgctxt "Control label"
+msgid "Flex Wrap"
+msgstr "Flex 換行"
+
+msgctxt "Control label"
+msgid "Flip"
+msgstr "翻轉"
+
+msgctxt "Control label"
+msgid "Float"
+msgstr "浮動"
+
+msgctxt "Control label"
+msgid "Focus Point"
+msgstr "焦點位置"
+
+msgctxt "Control label"
+msgid "Focused"
+msgstr "取得焦點時"
+
+msgctxt "Control label"
+msgid "Follow User"
+msgstr "追蹤使用者"
+
+msgctxt "Control label"
+msgid "Font"
+msgstr "字型"
+
+msgctxt "Control label"
+msgid "Font Family"
+msgstr "字型"
+
+msgctxt "Control label"
+msgid "Font Size"
+msgstr "字級"
+
+msgctxt "Control label"
+msgid "Font Weight"
+msgstr "字重"
+
+msgctxt "Control label"
+msgid "Form"
+msgstr "表單"
+
+msgctxt "Control label"
+msgid "Format Number"
+msgstr "數字格式"
+
+msgctxt "Control label"
+msgid "Fraction X"
+msgstr "分數 X 位置"
+
+msgctxt "Control label"
+msgid "Fraction Y"
+msgstr "分數 Y 位置"
+
+msgctxt "Control label"
+msgid "Frames"
+msgstr "影格"
+
+msgctxt "Control label"
+msgid "Frequency"
+msgstr "頻率"
+
+msgctxt "Control label"
+msgid "From"
+msgstr "從"
+
+msgctxt "Control label"
+msgid "From Library"
+msgstr "從設計庫"
+
+msgctxt "Control label"
+msgid "Full Screen At"
+msgstr "全螢幕於"
+
+msgctxt "Control label"
+msgid "Full Shortcode"
+msgstr "完整短代碼"
+
+msgctxt "Control label"
+msgid "Full Width"
+msgstr "滿版寬度"
+
+msgctxt "Control label"
+msgid "Full Width At"
+msgstr "滿版寬度於"
+
+msgctxt "Control label"
+msgid "Galleries"
+msgstr "相簿"
+
+msgctxt "Control label"
+msgid "Gap"
+msgstr "間距"
+
+msgctxt "Control label"
+msgid "General"
+msgstr "一般"
+
+msgctxt "Control label"
+msgid "Global Block"
+msgstr "全域區塊"
+
+msgctxt "Control label"
+msgid "Gradient"
+msgstr "漸層"
+
+msgctxt "Control label"
+msgid "Graphic"
+msgstr "圖形"
+
+msgctxt "Control label"
+msgid "Graphics"
+msgstr "圖形"
+
+msgctxt "Control label"
+msgid "Grid"
+msgstr "格線"
+
+msgctxt "Control label"
+msgid "Grid Area"
+msgstr "格線區域"
+
+msgctxt "Control label"
+msgid "Grid Auto Flow"
+msgstr "格線自動排列"
+
+msgctxt "Control label"
+msgid "Grid Auto Rows"
+msgstr "格線自動列高"
+
+msgctxt "Control label"
+msgid "Grid Child"
+msgstr "格線子項目"
+
+msgctxt "Control label"
+msgid "Grid Column"
+msgstr "格線欄"
+
+msgctxt "Control label"
+msgid "Grid Row"
+msgstr "格線列"
+
+msgctxt "Control label"
+msgid "Grouped"
+msgstr "群組式"
+
+msgctxt "Control label"
+msgid "H1"
+msgstr "H1"
+
+msgctxt "Control label"
+msgid "H2"
+msgstr "H2"
+
+msgctxt "Control label"
+msgid "H3"
+msgstr "H3"
+
+msgctxt "Control label"
+msgid "H4"
+msgstr "H4"
+
+msgctxt "Control label"
+msgid "H5"
+msgstr "H5"
+
+msgctxt "Control label"
+msgid "H6"
+msgstr "H6"
+
+msgctxt "Control label"
+msgid "HTML Code"
+msgstr "HTML 程式碼"
+
+msgctxt "Control label"
+msgid "HTML Tags"
+msgstr "HTML 標籤"
+
+msgctxt "Control label"
+msgid "Handle"
+msgstr "拖曳把手"
+
+msgctxt "Control label"
+msgid "Hashtag"
+msgstr "主題標籤"
+
+msgctxt "Control label"
+msgid "Header"
+msgstr "頁首"
+
+msgctxt "Control label"
+msgid "Heading Offset"
+msgstr "標題位移"
+
+msgctxt "Control label"
+msgid "Headings"
+msgstr "標題"
+
+msgctxt "Control label"
+msgid "Heavy"
+msgstr "粗"
+
+msgctxt "Control label"
+msgid "Height"
+msgstr "高度"
+
+msgctxt "Control label"
+msgid "Hide"
+msgstr "隱藏"
+
+msgctxt "Control label"
+msgid "Hide After"
+msgstr "此後隱藏"
+
+msgctxt "Control label"
+msgid "Hide Below"
+msgstr "以下寬度隱藏"
+
+msgctxt "Control label"
+msgid "Hide By"
+msgstr "隱藏方式"
+
+msgctxt "Control label"
+msgid "Hide Caption"
+msgstr "隱藏圖說"
+
+msgctxt "Control label"
+msgid "Hide Count"
+msgstr "隱藏數量"
+
+msgctxt "Control label"
+msgid "Hide Cursor"
+msgstr "隱藏游標"
+
+msgctxt "Control label"
+msgid "Hide Empty"
+msgstr "隱藏空白項目"
+
+msgctxt "Control label"
+msgid "Hide Heading"
+msgstr "隱藏標題"
+
+msgctxt "Control label"
+msgid "Hide In"
+msgstr "隱藏於"
+
+msgctxt "Control label"
+msgid "Hide Label"
+msgstr "隱藏標籤"
+
+msgctxt "Control label"
+msgid "Hide Labels"
+msgstr "隱藏標籤"
+
+msgctxt "Control label"
+msgid "Hide Logo"
+msgstr "隱藏 Logo"
+
+msgctxt "Control label"
+msgid "Hide Media"
+msgstr "隱藏媒體"
+
+msgctxt "Control label"
+msgid "Hide Subtotal"
+msgstr "隱藏小計"
+
+msgctxt "Control label"
+msgid "Hide Title"
+msgstr "隱藏標題"
+
+msgctxt "Control label"
+msgid "Hide below"
+msgstr "以下寬度隱藏"
+
+msgctxt "Control label"
+msgid "Horizontal"
+msgstr "水平"
+
+msgctxt "Control label"
+msgid "Hours"
+msgstr "小時"
+
+msgctxt "Control label"
+msgid "Hover"
+msgstr "滑鼠移入"
+
+msgctxt "Control label"
+msgid "Hover Area"
+msgstr "滑鼠感應區域"
+
+msgctxt "Control label"
+msgid "Hover Border"
+msgstr "滑鼠移入邊框"
+
+msgctxt "Control label"
+msgid "Hover Effect"
+msgstr "滑鼠移入效果"
+
+msgctxt "Control label"
+msgid "Hover Offset"
+msgstr "滑鼠移入位移"
+
+msgctxt "Control label"
+msgid "Hover Shadow"
+msgstr "滑鼠移入陰影"
+
+msgctxt "Control label"
+msgid "Icon"
+msgstr "圖示"
+
+msgctxt "Control label"
+msgid "Icon Button"
+msgstr "圖示按鈕"
+
+msgctxt "Control label"
+msgid "Icon Color"
+msgstr "圖示顏色"
+
+msgctxt "Control label"
+msgid "Icon Open"
+msgstr "展開時的圖示"
+
+msgctxt "Control label"
+msgid "Icon Position"
+msgstr "圖示位置"
+
+msgctxt "Control label"
+msgid "Icon Size"
+msgstr "圖示大小"
+
+msgctxt "Control label"
+msgid "Icon Type"
+msgstr "圖示類型"
+
+msgctxt "Control label"
+msgid "Icon X Nudge"
+msgstr "圖示 X 微調"
+
+msgctxt "Control label"
+msgid "Icon Y Nudge"
+msgstr "圖示 Y 微調"
+
+msgctxt "Control label"
+msgid "Icon or Image"
+msgstr "圖示或圖片"
+
+msgctxt "Control label"
+msgid "Icons"
+msgstr "圖示"
+
+msgctxt "Control label"
+msgid "Image"
+msgstr "圖片"
+
+msgctxt "Control label"
+msgid "Image Effect"
+msgstr "圖片效果"
+
+msgctxt "Control label"
+msgid "Image Opacity"
+msgstr "圖片透明度"
+
+msgctxt "Control label"
+msgid "Image Options"
+msgstr "圖片選項"
+
+msgctxt "Control label"
+msgid "Image Position"
+msgstr "圖片位置"
+
+msgctxt "Control label"
+msgid "Image Settings"
+msgstr "圖片設定"
+
+msgctxt "Control label"
+msgid "Image Size"
+msgstr "圖片尺寸"
+
+msgctxt "Control label"
+msgid "Image options"
+msgstr "圖片選項"
+
+msgctxt "Control label"
+msgid "Images"
+msgstr "圖片"
+
+msgctxt "Control label"
+msgid "Inactive"
+msgstr "未啟用"
+
+msgctxt "Control label"
+msgid "Include"
+msgstr "包含"
+
+msgctxt "Control label"
+msgid "Included Color"
+msgstr "包含的顏色"
+
+msgctxt "Control label"
+msgid "Included Icon"
+msgstr "包含的圖示"
+
+msgctxt "Control label"
+msgid "Indent"
+msgstr "縮排"
+
+msgctxt "Control label"
+msgid "Infinite"
+msgstr "無限"
+
+msgctxt "Control label"
+msgid "Info"
+msgstr "資訊"
+
+msgctxt "Control label"
+msgid "Initial Slide"
+msgstr "起始輪播項目"
+
+msgctxt "Control label"
+msgid "Inputs"
+msgstr "輸入欄"
+
+msgctxt "Control label"
+msgid "Inset"
+msgstr "內陰影"
+
+msgctxt "Control label"
+msgid "Integration"
+msgstr "整合"
+
+msgctxt "Control label"
+msgid "Item"
+msgstr "項目"
+
+msgctxt "Control label"
+msgid "Item Title"
+msgstr "項目標題"
+
+msgctxt "Control label"
+msgid "Items"
+msgstr "項目"
+
+msgctxt "Control label"
+msgid "Items Per Row"
+msgstr "每列項目數"
+
+msgctxt "Control label"
+msgid "Iterations"
+msgstr "重複次數"
+
+msgctxt "Control label"
+msgid "Justify Self"
+msgstr "自身水平對齊"
+
+msgctxt "Control label"
+msgid "Keep Style"
+msgstr "保留樣式"
+
+msgctxt "Control label"
+msgid "Ken Burns"
+msgstr "Ken Burns 效果"
+
+msgctxt "Control label"
+msgid "Label"
+msgstr "標籤"
+
+msgctxt "Control label"
+msgid "Label Left"
+msgstr "標籤置左"
+
+msgctxt "Control label"
+msgid "Label Position"
+msgstr "標籤位置"
+
+msgctxt "Control label"
+msgid "Label Radius"
+msgstr "標籤圓角"
+
+msgctxt "Control label"
+msgid "Label Right"
+msgstr "標籤置右"
+
+msgctxt "Control label"
+msgid "Label Spacing"
+msgstr "標籤間距"
+
+msgctxt "Control label"
+msgid "Label Text"
+msgstr "標籤文字"
+
+msgctxt "Control label"
+msgid "Labels"
+msgstr "標籤"
+
+msgctxt "Control label"
+msgid "Large"
+msgstr "大"
+
+msgctxt "Control label"
+msgid "Layout"
+msgstr "版面"
+
+msgctxt "Control label"
+msgid "Lazy Load"
+msgstr "延遲載入"
+
+msgctxt "Control label"
+msgid "Lazy load"
+msgstr "延遲載入"
+
+msgctxt "Control label"
+msgid "Left"
+msgstr "左"
+
+msgctxt "Control label"
+msgid "Legacy"
+msgstr "舊版"
+
+msgctxt "Control label"
+msgid "Level 1"
+msgstr "第 1 層"
+
+msgctxt "Control label"
+msgid "Level 2"
+msgstr "第 2 層"
+
+msgctxt "Control label"
+msgid "Level 3"
+msgstr "第 3 層"
+
+msgctxt "Control label"
+msgid "Limit"
+msgstr "上限"
+
+msgctxt "Control label"
+msgid "Limit Tweets"
+msgstr "推文數量上限"
+
+msgctxt "Control label"
+msgid "Line"
+msgstr "線條"
+
+msgctxt "Control label"
+msgid "Line Cap"
+msgstr "線端樣式"
+
+msgctxt "Control label"
+msgid "Line Width"
+msgstr "線寬"
+
+msgctxt "Control label"
+msgid "Link"
+msgstr "連結"
+
+msgctxt "Control label"
+msgid "Link Text"
+msgstr "連結文字"
+
+msgctxt "Control label"
+msgid "Links"
+msgstr "連結"
+
+msgctxt "Control label"
+msgid "List"
+msgstr "清單"
+
+msgctxt "Control label"
+msgid "List Item P"
+msgstr "清單項目 P"
+
+msgctxt "Control label"
+msgid "Load Method"
+msgstr "載入方式"
+
+msgctxt "Control label"
+msgid "Logo"
+msgstr "Logo"
+
+msgctxt "Control label"
+msgid "Logo Alt"
+msgstr "Logo 替代文字"
+
+msgctxt "Control label"
+msgid "Logo On Right"
+msgstr "Logo 置右"
+
+msgctxt "Control label"
+msgid "Logo URL"
+msgstr "Logo 連結網址"
+
+msgctxt "Control label"
+msgid "Logo Width"
+msgstr "Logo 寬度"
+
+msgctxt "Control label"
+msgid "Logos"
+msgstr "Logo"
+
+msgctxt "Control label"
+msgid "Loop"
+msgstr "循環播放"
+
+msgctxt "Control label"
+msgid "Loop Animation"
+msgstr "循環播放動畫"
+
+msgctxt "Control label"
+msgid "Lost Password"
+msgstr "忘記密碼"
+
+msgctxt "Control label"
+msgid "Margin"
+msgstr "外距"
+
+msgctxt "Control label"
+msgid "Margin Bottom"
+msgstr "下外距"
+
+msgctxt "Control label"
+msgid "Margin Top"
+msgstr "上外距"
+
+msgctxt "Control label"
+msgid "Marker Color"
+msgstr "標記顏色"
+
+msgctxt "Control label"
+msgid "Marker Type"
+msgstr "標記類型"
+
+msgctxt "Control label"
+msgid "Marquee"
+msgstr "跑馬燈"
+
+msgctxt "Control label"
+msgid "Mask"
+msgstr "遮罩"
+
+msgctxt "Control label"
+msgid "Max Height"
+msgstr "最大高度"
+
+msgctxt "Control label"
+msgid "Max Lines"
+msgstr "最多行數"
+
+msgctxt "Control label"
+msgid "Max Value"
+msgstr "最大值"
+
+msgctxt "Control label"
+msgid "Max Width"
+msgstr "最大寬度"
+
+msgctxt "Control label"
+msgid "Media"
+msgstr "媒體"
+
+msgctxt "Control label"
+msgid "Medium"
+msgstr "中"
+
+msgctxt "Control label"
+msgid "Mention User"
+msgstr "提及使用者"
+
+msgctxt "Control label"
+msgid "Menu"
+msgstr "選單"
+
+msgctxt "Control label"
+msgid "Menu Source"
+msgstr "選單來源"
+
+msgctxt "Control label"
+msgid "Message"
+msgstr "訊息"
+
+msgctxt "Control label"
+msgid "Messages"
+msgstr "訊息"
+
+msgctxt "Control label"
+msgid "Meta"
+msgstr "文章資訊"
+
+msgctxt "Control label"
+msgid "Meta Data"
+msgstr "中繼資料"
+
+msgctxt "Control label"
+msgid "Min Height"
+msgstr "最小高度"
+
+msgctxt "Control label"
+msgid "Minutes"
+msgstr "分鐘"
+
+msgctxt "Control label"
+msgid "Misc"
+msgstr "其他"
+
+msgctxt "Control label"
+msgid "Mix Blend Mode"
+msgstr "混合模式"
+
+msgctxt "Control label"
+msgid "Mobile Menu"
+msgstr "手機版選單"
+
+msgctxt "Control label"
+msgid "Modal"
+msgstr "彈出視窗"
+
+msgctxt "Control label"
+msgid "Mode"
+msgstr "模式"
+
+msgctxt "Control label"
+msgid "Month"
+msgstr "月"
+
+msgctxt "Control label"
+msgid "Multiline"
+msgstr "多行"
+
+msgctxt "Control label"
+msgid "Mute"
+msgstr "靜音"
+
+msgctxt "Control label"
+msgid "Muted"
+msgstr "已靜音"
+
+msgctxt "Control label"
+msgid "Name"
+msgstr "名稱"
+
+msgctxt "Control label"
+msgid "Name HTML Tag"
+msgstr "名稱 HTML 標籤"
+
+msgctxt "Control label"
+msgid "Negative Color"
+msgstr "負向顏色"
+
+msgctxt "Control label"
+msgid "Negative Icon"
+msgstr "負向圖示"
+
+msgctxt "Control label"
+msgid "Negative Nudge"
+msgstr "反向微調"
+
+msgctxt "Control label"
+msgid "Network"
+msgstr "網路"
+
+msgctxt "Control label"
+msgid "New Control"
+msgstr "新增控制項"
+
+msgctxt "Control label"
+msgid "New Section"
+msgstr "新增區段"
+
+msgctxt "Control label"
+msgid "New Tab"
+msgstr "新分頁"
+
+msgctxt "Control label"
+msgid "Next"
+msgstr "下一步"
+
+msgctxt "Control label"
+msgid "No Background"
+msgstr "無背景"
+
+msgctxt "Control label"
+msgid "No Border"
+msgstr "無邊框"
+
+msgctxt "Control label"
+msgid "No Comments"
+msgstr "沒有留言"
+
+msgctxt "Control label"
+msgid "No Footer"
+msgstr "無頁尾"
+
+msgctxt "Control label"
+msgid "No Header"
+msgstr "無頁首"
+
+msgctxt "Control label"
+msgid "No Loop"
+msgstr "不循環播放"
+
+msgctxt "Control label"
+msgid "No Overlap"
+msgstr "不重疊"
+
+msgctxt "Control label"
+msgid "No Scrollbar"
+msgstr "不顯示捲軸"
+
+msgctxt "Control label"
+msgid "Normal"
+msgstr "一般"
+
+msgctxt "Control label"
+msgid "Not Included"
+msgstr "未包含"
+
+msgctxt "Control label"
+msgid "Notices"
+msgstr "通知訊息"
+
+msgctxt "Control label"
+msgid "Nudge"
+msgstr "微調"
+
+msgctxt "Control label"
+msgid "Nudge X"
+msgstr "X 微調"
+
+msgctxt "Control label"
+msgid "Nudge Y"
+msgstr "Y 微調"
+
+msgctxt "Control label"
+msgid "Number"
+msgstr "數字"
+
+msgctxt "Control label"
+msgid "Object Fit"
+msgstr "圖片填滿方式"
+
+msgctxt "Control label"
+msgid "Occupation"
+msgstr "職稱"
+
+msgctxt "Control label"
+msgid "Offset"
+msgstr "位移"
+
+msgctxt "Control label"
+msgid "Offset Color"
+msgstr "位移顏色"
+
+msgctxt "Control label"
+msgid "Offset Width"
+msgstr "位移寬度"
+
+msgctxt "Control label"
+msgid "Offset X"
+msgstr "X 位移"
+
+msgctxt "Control label"
+msgid "Offset Y"
+msgstr "Y 位移"
+
+msgctxt "Control label"
+msgid "On Hover Out"
+msgstr "滑鼠移出時"
+
+msgctxt "Control label"
+msgid "One Comment"
+msgstr "一則留言"
+
+msgctxt "Control label"
+msgid "Opacity"
+msgstr "透明度"
+
+msgctxt "Control label"
+msgid "Open Button"
+msgstr "開啟按鈕"
+
+msgctxt "Control label"
+msgid "Open Icon"
+msgstr "展開時的圖示"
+
+msgctxt "Control label"
+msgid "Open On Hover"
+msgstr "滑鼠移入時展開"
+
+msgctxt "Control label"
+msgid "Open Rotation"
+msgstr "展開時的旋轉角度"
+
+msgctxt "Control label"
+msgid "Order"
+msgstr "排序"
+
+msgctxt "Control label"
+msgid "Order By"
+msgstr "排序依據"
+
+msgctxt "Control label"
+msgid "Orientation"
+msgstr "方向"
+
+msgctxt "Control label"
+msgid "Origin"
+msgstr "原點"
+
+msgctxt "Control label"
+msgid "Other"
+msgstr "其他"
+
+msgctxt "Control label"
+msgid "Out Of Stock"
+msgstr "已售完"
+
+msgctxt "Control label"
+msgid "Outline"
+msgstr "外框線"
+
+msgctxt "Control label"
+msgid "Outline Color"
+msgstr "外框線顏色"
+
+msgctxt "Control label"
+msgid "Outline Offset"
+msgstr "外框線位移"
+
+msgctxt "Control label"
+msgid "Outline Style"
+msgstr "外框線樣式"
+
+msgctxt "Control label"
+msgid "Outline Width"
+msgstr "外框線寬度"
+
+msgctxt "Control label"
+msgid "Outside"
+msgstr "外部"
+
+msgctxt "Control label"
+msgid "Overflow"
+msgstr "內容溢出"
+
+msgctxt "Control label"
+msgid "Overlap"
+msgstr "重疊"
+
+msgctxt "Control label"
+msgid "Overlay"
+msgstr "覆蓋層"
+
+msgctxt "Control label"
+msgid "Overlay Color"
+msgstr "覆蓋層顏色"
+
+msgctxt "Control label"
+msgid "Override Width"
+msgstr "覆寫寬度"
+
+msgctxt "Control label"
+msgid "Padding"
+msgstr "內距"
+
+msgctxt "Control label"
+msgid "Padding Left"
+msgstr "左內距"
+
+msgctxt "Control label"
+msgid "Page"
+msgstr "頁面"
+
+msgctxt "Control label"
+msgid "Page URL"
+msgstr "頁面網址"
+
+msgctxt "Control label"
+msgid "Pagination"
+msgstr "分頁導覽"
+
+msgctxt "Control label"
+msgid "Paragraph"
+msgstr "段落"
+
+msgctxt "Control label"
+msgid "Password Label"
+msgstr "密碼欄標籤"
+
+msgctxt "Control label"
+msgid "Pattern"
+msgstr "圖樣"
+
+msgctxt "Control label"
+msgid "Pause On Hover"
+msgstr "滑鼠移入時暫停"
+
+msgctxt "Control label"
+msgid "Payment Box"
+msgstr "付款區塊"
+
+msgctxt "Control label"
+msgid "Per Period"
+msgstr "每個週期"
+
+msgctxt "Control label"
+msgid "Per Row"
+msgstr "每列"
+
+msgctxt "Control label"
+msgid "Percentage"
+msgstr "百分比"
+
+msgctxt "Control label"
+msgid "Period X"
+msgstr "週期 X"
+
+msgctxt "Control label"
+msgid "Period Y"
+msgstr "週期 Y"
+
+msgctxt "Control label"
+msgid "Perspective"
+msgstr "透視"
+
+msgctxt "Control label"
+msgid "Placeholder"
+msgstr "提示文字"
+
+msgctxt "Control label"
+msgid "Placement"
+msgstr "擺放位置"
+
+msgctxt "Control label"
+msgid "Play Inline"
+msgstr "內嵌播放"
+
+msgctxt "Control label"
+msgid "Play On Mobile"
+msgstr "在手機上播放"
+
+msgctxt "Control label"
+msgid "Play Only Once"
+msgstr "只播放一次"
+
+msgctxt "Control label"
+msgid "Plays Inline"
+msgstr "內嵌播放"
+
+msgctxt "Control label"
+msgid "Plural"
+msgstr "複數"
+
+msgctxt "Control label"
+msgid "Pointer Events"
+msgstr "滑鼠事件"
+
+msgctxt "Control label"
+msgid "Popup"
+msgstr "彈出視窗"
+
+msgctxt "Control label"
+msgid "Popup Can"
+msgstr "彈出視窗可以"
+
+msgctxt "Control label"
+msgid "Popup HTML ID"
+msgstr "彈出視窗 HTML ID"
+
+msgctxt "Control label"
+msgid "Position"
+msgstr "位置"
+
+msgctxt "Control label"
+msgid "Positive Color"
+msgstr "正向顏色"
+
+msgctxt "Control label"
+msgid "Positive Icon"
+msgstr "正向圖示"
+
+msgctxt "Control label"
+msgid "Positive Nudge"
+msgstr "正向微調"
+
+msgctxt "Control label"
+msgid "Post"
+msgstr "文章"
+
+msgctxt "Control label"
+msgid "Post Title Tag"
+msgstr "文章標題標籤"
+
+msgctxt "Control label"
+msgid "Post URL"
+msgstr "文章網址"
+
+msgctxt "Control label"
+msgid "Poster"
+msgstr "影片封面圖"
+
+msgctxt "Control label"
+msgid "Prefix"
+msgstr "前綴"
+
+msgctxt "Control label"
+msgid "Preset"
+msgstr "預設樣式"
+
+msgctxt "Control label"
+msgid "Previous"
+msgstr "上一步"
+
+msgctxt "Control label"
+msgid "Price"
+msgstr "價格"
+
+msgctxt "Control label"
+msgid "Price Area"
+msgstr "價格區域"
+
+msgctxt "Control label"
+msgid "Price Filter"
+msgstr "價格篩選"
+
+msgctxt "Control label"
+msgid "Primary"
+msgstr "主要"
+
+msgctxt "Control label"
+msgid "Primary Button"
+msgstr "主要按鈕"
+
+msgctxt "Control label"
+msgid "Privacy mode"
+msgstr "隱私模式"
+
+msgctxt "Control label"
+msgid "Product"
+msgstr "商品"
+
+msgctxt "Control label"
+msgid "Product Count"
+msgstr "商品數量"
+
+msgctxt "Control label"
+msgid "Product Images"
+msgstr "商品圖片"
+
+msgctxt "Control label"
+msgid "Product Wrapper"
+msgstr "商品外框"
+
+msgctxt "Control label"
+msgid "Products"
+msgstr "商品"
+
+msgctxt "Control label"
+msgid "Products List"
+msgstr "商品列表"
+
+msgctxt "Control label"
+msgid "Profile Photos"
+msgstr "個人頭像"
+
+msgctxt "Control label"
+msgid "Progress"
+msgstr "進度"
+
+msgctxt "Control label"
+msgid "Progress Bar"
+msgstr "進度條"
+
+msgctxt "Control label"
+msgid "Property"
+msgstr "屬性"
+
+msgctxt "Control label"
+msgid "Pulse Dot"
+msgstr "脈動圓點"
+
+msgctxt "Control label"
+msgid "Pulse Duration"
+msgstr "脈動時間"
+
+msgctxt "Control label"
+msgid "Pulse Scale"
+msgstr "脈動幅度"
+
+msgctxt "Control label"
+msgid "Quantity"
+msgstr "數量"
+
+msgctxt "Control label"
+msgid "Quantity Input"
+msgstr "數量輸入欄"
+
+msgctxt "Control label"
+msgid "Quantity Width"
+msgstr "數量欄寬度"
+
+msgctxt "Control label"
+msgid "Query"
+msgstr "查詢"
+
+msgctxt "Control label"
+msgid "Question"
+msgstr "問題"
+
+msgctxt "Control label"
+msgid "Quicklook"
+msgstr "快速預覽"
+
+msgctxt "Control label"
+msgid "Quotes"
+msgstr "引號"
+
+msgctxt "Control label"
+msgid "RTL"
+msgstr "由右至左"
+
+msgctxt "Control label"
+msgid "Radius"
+msgstr "圓角半徑"
+
+msgctxt "Control label"
+msgid "Rating"
+msgstr "評分"
+
+msgctxt "Control label"
+msgid "Rating Filter"
+msgstr "評分篩選"
+
+msgctxt "Control label"
+msgid "Ratings"
+msgstr "評分"
+
+msgctxt "Control label"
+msgid "Ratio"
+msgstr "比例"
+
+msgctxt "Control label"
+msgid "Redirect"
+msgstr "轉向"
+
+msgctxt "Control label"
+msgid "Redirect URL"
+msgstr "轉向網址"
+
+msgctxt "Control label"
+msgid "Remember Me"
+msgstr "記住我"
+
+msgctxt "Control label"
+msgid "Remove Icon"
+msgstr "移除圖示"
+
+msgctxt "Control label"
+msgid "Repeat"
+msgstr "重複"
+
+msgctxt "Control label"
+msgid "Repeated Block"
+msgstr "重複區塊"
+
+msgctxt "Control label"
+msgid "Repeater Field"
+msgstr "重複欄位"
+
+msgctxt "Control label"
+msgid "Required"
+msgstr "必填"
+
+msgctxt "Control label"
+msgid "Responsive"
+msgstr "響應式"
+
+msgctxt "Control label"
+msgid "Result Count"
+msgstr "結果數量"
+
+msgctxt "Control label"
+msgid "Reveal Label"
+msgstr "展開標籤"
+
+msgctxt "Control label"
+msgid "Reverse Order"
+msgstr "反向排序"
+
+msgctxt "Control label"
+msgid "Review Count"
+msgstr "評論數量"
+
+msgctxt "Control label"
+msgid "Reviews"
+msgstr "評論"
+
+msgctxt "Control label"
+msgid "Right"
+msgstr "右"
+
+msgctxt "Control label"
+msgid "Right Nudge"
+msgstr "向右微調"
+
+msgctxt "Control label"
+msgid "Rotate"
+msgstr "旋轉"
+
+msgctxt "Control label"
+msgid "Rotate X"
+msgstr "旋轉 X"
+
+msgctxt "Control label"
+msgid "Rotate Y"
+msgstr "旋轉 Y"
+
+msgctxt "Control label"
+msgid "Rotate Z"
+msgstr "旋轉 Z"
+
+msgctxt "Control label"
+msgid "Rotating"
+msgstr "旋轉中"
+
+msgctxt "Control label"
+msgid "Row"
+msgstr "列"
+
+msgctxt "Control label"
+msgid "Row Height"
+msgstr "列高"
+
+msgctxt "Control label"
+msgid "Rows"
+msgstr "列"
+
+msgctxt "Control label"
+msgid "Sale Badge"
+msgstr "特價徽章"
+
+msgctxt "Control label"
+msgid "Scale"
+msgstr "縮放"
+
+msgctxt "Control label"
+msgid "Scale On Hover"
+msgstr "滑鼠移入時縮放"
+
+msgctxt "Control label"
+msgid "Scale X"
+msgstr "縮放 X"
+
+msgctxt "Control label"
+msgid "Scale Y"
+msgstr "縮放 Y"
+
+msgctxt "Control label"
+msgid "Scale Z"
+msgstr "縮放 Z"
+
+msgctxt "Control label"
+msgid "Scroll Offset"
+msgstr "捲動位移"
+
+msgctxt "Control label"
+msgid "Search Box"
+msgstr "搜尋框"
+
+msgctxt "Control label"
+msgid "Secondary"
+msgstr "次要"
+
+msgctxt "Control label"
+msgid "Seconds"
+msgstr "秒"
+
+msgctxt "Control label"
+msgid "Select2"
+msgstr "Select2"
+
+msgctxt "Control label"
+msgid "Selected"
+msgstr "已選取"
+
+msgctxt "Control label"
+msgid "Selected Item"
+msgstr "已選取的項目"
+
+msgctxt "Control label"
+msgid "Selection"
+msgstr "選取範圍"
+
+msgctxt "Control label"
+msgid "Separator"
+msgstr "分隔符號"
+
+msgctxt "Control label"
+msgid "Separators"
+msgstr "分隔符號"
+
+msgctxt "Control label"
+msgid "Setting"
+msgstr "設定"
+
+msgctxt "Control label"
+msgid "Settings"
+msgstr "設定"
+
+msgctxt "Control label"
+msgid "Shadow"
+msgstr "陰影"
+
+msgctxt "Control label"
+msgid "Shape"
+msgstr "形狀"
+
+msgctxt "Control label"
+msgid "Share"
+msgstr "分享"
+
+msgctxt "Control label"
+msgid "Share Button"
+msgstr "分享按鈕"
+
+msgctxt "Control label"
+msgid "Shortcode"
+msgstr "短代碼"
+
+msgctxt "Control label"
+msgid "Show"
+msgstr "顯示"
+
+msgctxt "Control label"
+msgid "Show Arrows"
+msgstr "顯示箭頭"
+
+msgctxt "Control label"
+msgid "Show At"
+msgstr "顯示於"
+
+msgctxt "Control label"
+msgid "Show Captions"
+msgstr "顯示圖說"
+
+msgctxt "Control label"
+msgid "Show Count"
+msgstr "顯示數量"
+
+msgctxt "Control label"
+msgid "Show Full Post"
+msgstr "顯示完整文章"
+
+msgctxt "Control label"
+msgid "Show Label"
+msgstr "顯示標籤"
+
+msgctxt "Control label"
+msgid "Show Products"
+msgstr "顯示商品"
+
+msgctxt "Control label"
+msgid "Shuffle"
+msgstr "隨機排序"
+
+msgctxt "Control label"
+msgid "Single Column"
+msgstr "單欄"
+
+msgctxt "Control label"
+msgid "Singular"
+msgstr "單數"
+
+msgctxt "Control label"
+msgid "Size"
+msgstr "尺寸"
+
+msgctxt "Control label"
+msgid "Sizes"
+msgstr "尺寸"
+
+msgctxt "Control label"
+msgid "Skew X"
+msgstr "傾斜 X"
+
+msgctxt "Control label"
+msgid "Skew Y"
+msgstr "傾斜 Y"
+
+msgctxt "Control label"
+msgid "Slide"
+msgstr "輪播項目"
+
+msgctxt "Control label"
+msgid "Slide Duration"
+msgstr "輪播停留時間"
+
+msgctxt "Control label"
+msgid "Slider"
+msgstr "輪播"
+
+msgctxt "Control label"
+msgid "Slider Images"
+msgstr "輪播圖片"
+
+msgctxt "Control label"
+msgid "Slider To Sync"
+msgstr "要同步的輪播"
+
+msgctxt "Control label"
+msgid "Slides"
+msgstr "輪播項目"
+
+msgctxt "Control label"
+msgid "Slideshow"
+msgstr "輪播播放"
+
+msgctxt "Control label"
+msgid "Small"
+msgstr "小"
+
+msgctxt "Control label"
+msgid "Small Header"
+msgstr "小型頁首"
+
+msgctxt "Control label"
+msgid "Sort By"
+msgstr "排序依據"
+
+msgctxt "Control label"
+msgid "Space"
+msgstr "間距"
+
+msgctxt "Control label"
+msgid "Space Above"
+msgstr "上方間距"
+
+msgctxt "Control label"
+msgid "Space After"
+msgstr "之後間距"
+
+msgctxt "Control label"
+msgid "Space Around"
+msgstr "環繞平均分佈"
+
+msgctxt "Control label"
+msgid "Space Before"
+msgstr "之前間距"
+
+msgctxt "Control label"
+msgid "Space Below"
+msgstr "下方間距"
+
+msgctxt "Control label"
+msgid "Space Between"
+msgstr "兩端對齊分佈"
+
+msgctxt "Control label"
+msgid "Space To Edge"
+msgstr "與邊緣的距離"
+
+msgctxt "Control label"
+msgid "Spacer"
+msgstr "間距元件"
+
+msgctxt "Control label"
+msgid "Spacing"
+msgstr "間距"
+
+msgctxt "Control label"
+msgid "Speed"
+msgstr "速度"
+
+msgctxt "Control label"
+msgid "Stack"
+msgstr "堆疊"
+
+msgctxt "Control label"
+msgid "Stacking"
+msgstr "堆疊方式"
+
+msgctxt "Control label"
+msgid "Standard"
+msgstr "標準"
+
+msgctxt "Control label"
+msgid "Star Color"
+msgstr "星星顏色"
+
+msgctxt "Control label"
+msgid "Star Size"
+msgstr "星星大小"
+
+msgctxt "Control label"
+msgid "Stars"
+msgstr "星級"
+
+msgctxt "Control label"
+msgid "Stars Color"
+msgstr "星級顏色"
+
+msgctxt "Control label"
+msgid "Start"
+msgstr "開始"
+
+msgctxt "Control label"
+msgid "Start Delay"
+msgstr "開始延遲"
+
+msgctxt "Control label"
+msgid "Start On Hover"
+msgstr "滑鼠移入時開始"
+
+msgctxt "Control label"
+msgid "Start Time"
+msgstr "開始時間"
+
+msgctxt "Control label"
+msgid "Static Items"
+msgstr "固定項目"
+
+msgctxt "Control label"
+msgid "Step"
+msgstr "級距"
+
+msgctxt "Control label"
+msgid "Stepper"
+msgstr "數量步進器"
+
+msgctxt "Control label"
+msgid "Sticky"
+msgstr "固定"
+
+msgctxt "Control label"
+msgid "Sticky Offset"
+msgstr "固定位移"
+
+msgctxt "Control label"
+msgid "Sticky Tabs"
+msgstr "固定頁籤"
+
+msgctxt "Control label"
+msgid "Sticky Totals"
+msgstr "固定合計區"
+
+msgctxt "Control label"
+msgid "Stretch"
+msgstr "延展"
+
+msgctxt "Control label"
+msgid "Stroke Color"
+msgstr "描邊顏色"
+
+msgctxt "Control label"
+msgid "Stroke Width"
+msgstr "描邊寬度"
+
+msgctxt "Control label"
+msgid "Style"
+msgstr "樣式"
+
+msgctxt "Control label"
+msgid "Styles"
+msgstr "樣式"
+
+msgctxt "Control label"
+msgid "Sub Label"
+msgstr "副標籤"
+
+msgctxt "Control label"
+msgid "Submit Button"
+msgstr "送出按鈕"
+
+msgctxt "Control label"
+msgid "Submit Text"
+msgstr "送出按鈕文字"
+
+msgctxt "Control label"
+msgid "Subtotal"
+msgstr "小計"
+
+msgctxt "Control label"
+msgid "Success"
+msgstr "成功"
+
+msgctxt "Control label"
+msgid "Suffix"
+msgstr "後綴"
+
+msgctxt "Control label"
+msgid "Switch"
+msgstr "切換"
+
+msgctxt "Control label"
+msgid "Sync Mode"
+msgstr "同步模式"
+
+msgctxt "Control label"
+msgid "Tab"
+msgstr "頁籤"
+
+msgctxt "Control label"
+msgid "Table"
+msgstr "表格"
+
+msgctxt "Control label"
+msgid "Tables"
+msgstr "表格"
+
+msgctxt "Control label"
+msgid "Tabs"
+msgstr "頁籤"
+
+msgctxt "Control label"
+msgid "Tag"
+msgstr "標籤"
+
+msgctxt "Control label"
+msgid "Tags"
+msgstr "標籤"
+
+msgctxt "Control label"
+msgid "Taxonomy"
+msgstr "分類法"
+
+msgctxt "Control label"
+msgid "Term Query"
+msgstr "分類項目查詢"
+
+msgctxt "Control label"
+msgid "Testimonial"
+msgstr "客戶推薦"
+
+msgctxt "Control label"
+msgid "Text"
+msgstr "文字"
+
+msgctxt "Control label"
+msgid "Text Color"
+msgstr "文字顏色"
+
+msgctxt "Control label"
+msgid "Text Colors"
+msgstr "文字顏色"
+
+msgctxt "Control label"
+msgid "Text Indent"
+msgstr "首行縮排"
+
+msgctxt "Control label"
+msgid "Text Links"
+msgstr "文字連結"
+
+msgctxt "Control label"
+msgid "Text On Brand"
+msgstr "品牌色上的文字"
+
+msgctxt "Control label"
+msgid "Text to Tweet"
+msgstr "要發推的文字"
+
+msgctxt "Control label"
+msgid "Theme"
+msgstr "佈景主題"
+
+msgctxt "Control label"
+msgid "Thickness"
+msgstr "粗細"
+
+msgctxt "Control label"
+msgid "Thumbnails"
+msgstr "縮圖"
+
+msgctxt "Control label"
+msgid "Time"
+msgstr "時間"
+
+msgctxt "Control label"
+msgid "Time B"
+msgstr "時間 B"
+
+msgctxt "Control label"
+msgid "Time Units"
+msgstr "時間單位"
+
+msgctxt "Control label"
+msgid "Timeline"
+msgstr "時間軸"
+
+msgctxt "Control label"
+msgid "Timer"
+msgstr "計時器"
+
+msgctxt "Control label"
+msgid "Timer Type"
+msgstr "計時器類型"
+
+msgctxt "Control label"
+msgid "Times to loop"
+msgstr "循環次數"
+
+msgctxt "Control label"
+msgid "Timezone"
+msgstr "時區"
+
+msgctxt "Control label"
+msgid "Title"
+msgstr "標題"
+
+msgctxt "Control label"
+msgid "Title HTML Tag"
+msgstr "標題 HTML 標籤"
+
+msgctxt "Control label"
+msgid "Title Tag"
+msgstr "標題標籤"
+
+msgctxt "Control label"
+msgid "Title Text"
+msgstr "標題文字"
+
+msgctxt "Control label"
+msgid "Toggle"
+msgstr "切換"
+
+msgctxt "Control label"
+msgid "Tooltip"
+msgstr "提示框"
+
+msgctxt "Control label"
+msgid "Top"
+msgstr "上"
+
+msgctxt "Control label"
+msgid "Top At"
+msgstr "置頂於"
+
+msgctxt "Control label"
+msgid "Top Bar"
+msgstr "頂部橫幅"
+
+msgctxt "Control label"
+msgid "Top Nudge"
+msgstr "向上微調"
+
+msgctxt "Control label"
+msgid "Tracker"
+msgstr "追蹤器"
+
+msgctxt "Control label"
+msgid "Transform"
+msgstr "變形"
+
+msgctxt "Control label"
+msgid "Transforms"
+msgstr "變形"
+
+msgctxt "Control label"
+msgid "Transition"
+msgstr "轉場"
+
+msgctxt "Control label"
+msgid "Translate"
+msgstr "位移"
+
+msgctxt "Control label"
+msgid "Translate X"
+msgstr "位移 X"
+
+msgctxt "Control label"
+msgid "Translate Y"
+msgstr "位移 Y"
+
+msgctxt "Control label"
+msgid "Translate Z"
+msgstr "位移 Z"
+
+msgctxt "Control label"
+msgid "Trigger"
+msgstr "觸發條件"
+
+msgctxt "Control label"
+msgid "Tweet"
+msgstr "推文"
+
+msgctxt "Control label"
+msgid "Tweet Count"
+msgstr "推文數量"
+
+msgctxt "Control label"
+msgid "Tweet URL"
+msgstr "推文網址"
+
+msgctxt "Control label"
+msgid "Type"
+msgstr "類型"
+
+msgctxt "Control label"
+msgid "Type Speed"
+msgstr "打字速度"
+
+msgctxt "Control label"
+msgid "Typing"
+msgstr "打字"
+
+msgctxt "Control label"
+msgid "Typography"
+msgstr "文字樣式"
+
+msgctxt "Control label"
+msgid "URL to Like"
+msgstr "要按讚的網址"
+
+msgctxt "Control label"
+msgid "URL to Tweet"
+msgstr "要發推的網址"
+
+msgctxt "Control label"
+msgid "Unmarked Color"
+msgstr "未標記顏色"
+
+msgctxt "Control label"
+msgid "Unset Image At"
+msgstr "於此取消圖片"
+
+msgctxt "Control label"
+msgid "Username"
+msgstr "使用者名稱"
+
+msgctxt "Control label"
+msgid "Username Label"
+msgstr "使用者名稱標籤"
+
+msgctxt "Control label"
+msgid "Value"
+msgstr "值"
+
+msgctxt "Control label"
+msgid "Value Position"
+msgstr "數值位置"
+
+msgctxt "Control label"
+msgid "Variable"
+msgstr "變數"
+
+msgctxt "Control label"
+msgid "Vertical"
+msgstr "垂直"
+
+msgctxt "Control label"
+msgid "Vertical Align"
+msgstr "垂直對齊"
+
+msgctxt "Control label"
+msgid "Vertical At"
+msgstr "垂直排列於"
+
+msgctxt "Control label"
+msgid "Vertical Gap"
+msgstr "垂直間距"
+
+msgctxt "Control label"
+msgid "Vertical Mode"
+msgstr "垂直模式"
+
+msgctxt "Control label"
+msgid "Vertical at"
+msgstr "垂直排列於"
+
+msgctxt "Control label"
+msgid "Via Username"
+msgstr "透過使用者名稱"
+
+msgctxt "Control label"
+msgid "Video"
+msgstr "影片"
+
+msgctxt "Control label"
+msgid "Video File URL"
+msgstr "影片檔案網址"
+
+msgctxt "Control label"
+msgid "Video Options"
+msgstr "影片選項"
+
+msgctxt "Control label"
+msgid "Video Settings"
+msgstr "影片設定"
+
+msgctxt "Control label"
+msgid "Video URL"
+msgstr "影片網址"
+
+msgctxt "Control label"
+msgid "Video Warning"
+msgstr "影片警告訊息"
+
+msgctxt "Control label"
+msgid "Vimeo"
+msgstr "Vimeo"
+
+msgctxt "Control label"
+msgid "Visibility"
+msgstr "顯示與隱藏"
+
+msgctxt "Control label"
+msgid "Warning"
+msgstr "警告"
+
+msgctxt "Control label"
+msgid "Wave"
+msgstr "波浪"
+
+msgctxt "Control label"
+msgid "Website Link"
+msgstr "網站連結"
+
+msgctxt "Control label"
+msgid "Weight"
+msgstr "字重"
+
+msgctxt "Control label"
+msgid "Weights"
+msgstr "字重"
+
+msgctxt "Control label"
+msgid "When Empty"
+msgstr "當內容為空時"
+
+msgctxt "Control label"
+msgid "Widgets"
+msgstr "小工具"
+
+msgctxt "Control label"
+msgid "Width"
+msgstr "寬度"
+
+msgctxt "Control label"
+msgid "Words"
+msgstr "字數"
+
+msgctxt "Control label"
+msgid "Wrapped"
+msgstr "已換行"
+
+msgctxt "Control label"
+msgid "Wrapper"
+msgstr "外框容器"
+
+msgctxt "Control label"
+msgid "Wrapper Open"
+msgstr "外框容器展開時"
+
+msgctxt "Control label"
+msgid "Wrapper Radius"
+msgstr "外框容器圓角"
+
+msgctxt "Control label"
+msgid "Wrappers"
+msgstr "外框容器"
+
+msgctxt "Control label"
+msgid "Year"
+msgstr "年"
+
+msgctxt "Control label"
+msgid "YouTube"
+msgstr "YouTube"
+
+msgctxt "Control label"
+msgid "Your Order"
+msgstr "你的訂單"
+
+msgctxt "Control label"
+msgid "Z-Index"
+msgstr "Z-Index 堆疊順序"
+
+msgctxt "Control label"
+msgid "Zoom"
+msgstr "縮放"
+
+msgctxt "Control label"
+msgid "Zoom Icon"
+msgstr "放大圖示"
+
+msgctxt "Control label"
+msgid "Zoom Scale"
+msgstr "縮放倍率"
+
+msgctxt "Control label"
+msgid "alt"
+msgstr "alt"
+
+msgctxt "Control label"
+msgid "height"
+msgstr "height"
+
+msgctxt "Control label"
+msgid "loading"
+msgstr "載入中"
+
+msgctxt "Control label"
+msgid "oEmbed"
+msgstr "oEmbed"
+
+msgctxt "Control label"
+msgid "sizes"
+msgstr "sizes"
+
+msgctxt "Control label"
+msgid "src"
+msgstr "src"
+
+msgctxt "Control label"
+msgid "srcset"
+msgstr "srcset"
+
+msgctxt "Control label"
+msgid "width"
+msgstr "width"
+
+msgid "Controls"
+msgstr "控制項"
+
+msgid "Copy"
+msgstr "複製"
+
+msgid "Custom"
+msgstr "自訂"
+
+msgid "Custom Shape"
+msgstr "自訂形狀"
+
+msgid "Day"
+msgstr "日"
+
+msgid "Decoration"
+msgstr "文字裝飾"
+
+msgid "Default"
+msgstr "預設"
+
+msgid "Delay"
+msgstr "延遲"
+
+msgid "Design"
+msgstr "設計"
+
+msgid "Design Library"
+msgstr "設計庫"
+
+msgid "Design Set"
+msgstr "設計組合"
+
+msgid "Disable"
+msgstr "停用"
+
+msgid "Disable At"
+msgstr "停用於"
+
+msgid "Disabled"
+msgstr "已停用"
+
+msgid "Duration"
+msgstr "持續時間"
+
+msgid "Ease"
+msgstr "緩動"
+
+msgid "Edit in %s"
+msgstr "在 %s 中編輯"
+
+msgid "Effects"
+msgstr "效果"
+
+msgctxt "Element name"
+msgid "Accordion Content"
+msgstr "摺疊面板內容"
+
+msgctxt "Element name"
+msgid "Account Page"
+msgstr "會員帳號頁"
+
+msgctxt "Element name"
+msgid "Adjacent Posts"
+msgstr "上下篇文章"
+
+msgctxt "Element name"
+msgid "Advanced Accordion"
+msgstr "進階摺疊面板"
+
+msgctxt "Element name"
+msgid "Advanced Slide"
+msgstr "進階輪播項目"
+
+msgctxt "Element name"
+msgid "Advanced Slider"
+msgstr "進階輪播"
+
+msgctxt "Element name"
+msgid "Advanced Tabs"
+msgstr "進階頁籤"
+
+msgctxt "Element name"
+msgid "AnalyticsWP Event"
+msgstr "AnalyticsWP 事件"
+
+msgctxt "Element name"
+msgid "Animated Heading"
+msgstr "動態標題"
+
+msgctxt "Element name"
+msgid "Atom V1 Button"
+msgstr "Atom V1 按鈕"
+
+msgctxt "Element name"
+msgid "Atom V1 Custom Button Design"
+msgstr "Atom V1 自訂按鈕設計"
+
+msgctxt "Element name"
+msgid "Author"
+msgstr "作者"
+
+msgctxt "Element name"
+msgid "Back To Top"
+msgstr "回到頂端"
+
+msgctxt "Element name"
+msgid "Badge"
+msgstr "徽章"
+
+msgctxt "Element name"
+msgid "Basic List"
+msgstr "基本清單"
+
+msgctxt "Element name"
+msgid "Basic Slider"
+msgstr "基本輪播"
+
+msgctxt "Element name"
+msgid "Blockquote"
+msgstr "引言區塊"
+
+msgctxt "Element name"
+msgid "Breadcrumbs"
+msgstr "麵包屑導覽"
+
+msgctxt "Element name"
+msgid "Business Hours"
+msgstr "營業時間"
+
+msgctxt "Element name"
+msgid "Button"
+msgstr "按鈕"
+
+msgctxt "Element name"
+msgid "Cart Contents"
+msgstr "購物車內容"
+
+msgctxt "Element name"
+msgid "Cart Cross Sells"
+msgstr "購物車交叉銷售"
+
+msgctxt "Element name"
+msgid "Cart Empty Message"
+msgstr "購物車空白訊息"
+
+msgctxt "Element name"
+msgid "Cart Page"
+msgstr "購物車頁面"
+
+msgctxt "Element name"
+msgid "Cart Totals"
+msgstr "購物車金額合計"
+
+msgctxt "Element name"
+msgid "Checkmark List"
+msgstr "打勾清單"
+
+msgctxt "Element name"
+msgid "Checkout Billing Form"
+msgstr "結帳帳單表單"
+
+msgctxt "Element name"
+msgid "Checkout Builder"
+msgstr "結帳頁建構器"
+
+msgctxt "Element name"
+msgid "Checkout Coupon Form"
+msgstr "結帳優惠券表單"
+
+msgctxt "Element name"
+msgid "Checkout Login Form"
+msgstr "結帳登入表單"
+
+msgctxt "Element name"
+msgid "Checkout Order Review"
+msgstr "結帳訂單確認"
+
+msgctxt "Element name"
+msgid "Checkout Page"
+msgstr "結帳頁面"
+
+msgctxt "Element name"
+msgid "Checkout Payment"
+msgstr "結帳付款方式"
+
+msgctxt "Element name"
+msgid "Checkout Shipping Form"
+msgstr "結帳運送表單"
+
+msgctxt "Element name"
+msgid "Circle Counter"
+msgstr "圓形計數器"
+
+msgctxt "Element name"
+msgid "Code Block"
+msgstr "程式碼區塊"
+
+msgctxt "Element name"
+msgid "Column"
+msgstr "欄"
+
+msgctxt "Element name"
+msgid "Columns"
+msgstr "多欄"
+
+msgctxt "Element name"
+msgid "Comment Form"
+msgstr "留言表單"
+
+msgctxt "Element name"
+msgid "Comments List"
+msgstr "留言列表"
+
+msgctxt "Element name"
+msgid "Container"
+msgstr "容器"
+
+msgctxt "Element name"
+msgid "Container Link"
+msgstr "容器連結"
+
+msgctxt "Element name"
+msgid "Content Reveal"
+msgstr "內容展開"
+
+msgctxt "Element name"
+msgid "Content Toggle"
+msgstr "內容切換"
+
+msgctxt "Element name"
+msgid "Content Toggle - Content"
+msgstr "內容切換－內容"
+
+msgctxt "Element name"
+msgid "Countdown Timer"
+msgstr "倒數計時器"
+
+msgctxt "Element name"
+msgid "Dual Heading"
+msgstr "雙色標題"
+
+msgctxt "Element name"
+msgid "EffectsPreset"
+msgstr "效果預設樣式"
+
+msgctxt "Element name"
+msgid "Facebook Comments"
+msgstr "Facebook 留言"
+
+msgctxt "Element name"
+msgid "Facebook Like Button"
+msgstr "Facebook 按讚按鈕"
+
+msgctxt "Element name"
+msgid "Facebook Page Plugin"
+msgstr "Facebook 粉絲專頁外掛"
+
+msgctxt "Element name"
+msgid "Facebook Post"
+msgstr "Facebook 貼文"
+
+msgctxt "Element name"
+msgid "Facebook Share Button"
+msgstr "Facebook 分享按鈕"
+
+msgctxt "Element name"
+msgid "Facebook Video"
+msgstr "Facebook 影片"
+
+msgctxt "Element name"
+msgid "FacetWP Facet"
+msgstr "FacetWP 篩選器"
+
+msgctxt "Element name"
+msgid "Fancy Container"
+msgstr "花式容器"
+
+msgctxt "Element name"
+msgid "Fancy Divider"
+msgstr "花式分隔線"
+
+msgctxt "Element name"
+msgid "Fancy Testimonial"
+msgstr "花式客戶推薦"
+
+msgctxt "Element name"
+msgid "FancyBackgroundPreset"
+msgstr "花式背景預設樣式"
+
+msgctxt "Element name"
+msgid "Flexible Content"
+msgstr "彈性內容"
+
+msgctxt "Element name"
+msgid "Forgot Password Form"
+msgstr "忘記密碼表單"
+
+msgctxt "Element name"
+msgid "Form Builder"
+msgstr "表單建構器"
+
+msgctxt "Element name"
+msgid "FormDesignOptions"
+msgstr "表單設計選項"
+
+msgctxt "Element name"
+msgid "Frequently Asked Questions"
+msgstr "常見問答"
+
+msgctxt "Element name"
+msgid "Fundamental HTML Code"
+msgstr "基本 HTML 程式碼"
+
+msgctxt "Element name"
+msgid "Fundamental HTML5 Video"
+msgstr "基本 HTML5 影片"
+
+msgctxt "Element name"
+msgid "Fundamental Image"
+msgstr "基本圖片"
+
+msgctxt "Element name"
+msgid "Fundamental JavaScript Code"
+msgstr "基本 JavaScript 程式碼"
+
+msgctxt "Element name"
+msgid "Fundamental OEmbed"
+msgstr "基本 OEmbed 嵌入"
+
+msgctxt "Element name"
+msgid "Fundamental Rich Text"
+msgstr "基本格式化文字"
+
+msgctxt "Element name"
+msgid "Fundamental SVG Icon"
+msgstr "基本 SVG 圖示"
+
+msgctxt "Element name"
+msgid "Fundamental Text"
+msgstr "基本文字"
+
+msgctxt "Element name"
+msgid "Fundamental Text Link"
+msgstr "基本文字連結"
+
+msgctxt "Element name"
+msgid "Gallery"
+msgstr "相簿"
+
+msgctxt "Element name"
+msgid "Global Block"
+msgstr "全域區塊"
+
+msgctxt "Element name"
+msgid "Google Map"
+msgstr "Google 地圖"
+
+msgctxt "Element name"
+msgid "Grid"
+msgstr "格線"
+
+msgctxt "Element name"
+msgid "GridbuilderWP Facet"
+msgstr "GridbuilderWP 篩選器"
+
+msgctxt "Element name"
+msgid "HTML IMG"
+msgstr "HTML 圖片標籤"
+
+msgctxt "Element name"
+msgid "Header Builder"
+msgstr "頁首建構器"
+
+msgctxt "Element name"
+msgid "Heading"
+msgstr "標題"
+
+msgctxt "Element name"
+msgid "Hover Swapper"
+msgstr "滑鼠移入切換"
+
+msgctxt "Element name"
+msgid "Icon"
+msgstr "圖示"
+
+msgctxt "Element name"
+msgid "Icon Box"
+msgstr "圖示方塊"
+
+msgctxt "Element name"
+msgid "Icon List"
+msgstr "圖示清單"
+
+msgctxt "Element name"
+msgid "Image"
+msgstr "圖片"
+
+msgctxt "Element name"
+msgid "Image Accordion"
+msgstr "圖片摺疊面板"
+
+msgctxt "Element name"
+msgid "Image Box"
+msgstr "圖片方塊"
+
+msgctxt "Element name"
+msgid "Image Comparison"
+msgstr "圖片對比"
+
+msgctxt "Element name"
+msgid "Image Hover Card"
+msgstr "圖片滑入卡片"
+
+msgctxt "Element name"
+msgid "Image V1"
+msgstr "圖片 V1"
+
+msgctxt "Element name"
+msgid "Image With Zoom"
+msgstr "可放大圖片"
+
+msgctxt "Element name"
+msgid "Instagram Post"
+msgstr "Instagram 貼文"
+
+msgctxt "Element name"
+msgid "LayoutPreset"
+msgstr "版面預設樣式"
+
+msgctxt "Element name"
+msgid "Login Form"
+msgstr "登入表單"
+
+msgctxt "Element name"
+msgid "Logo List"
+msgstr "Logo 列表"
+
+msgctxt "Element name"
+msgid "Lottie Animation"
+msgstr "Lottie 動畫"
+
+msgctxt "Element name"
+msgid "Marquee Text"
+msgstr "跑馬燈文字"
+
+msgctxt "Element name"
+msgid "Masker"
+msgstr "遮罩器"
+
+msgctxt "Element name"
+msgid "Menu Builder"
+msgstr "選單建構器"
+
+msgctxt "Element name"
+msgid "Menu Custom Area"
+msgstr "選單自訂區域"
+
+msgctxt "Element name"
+msgid "Menu Custom Dropdown"
+msgstr "選單自訂下拉"
+
+msgctxt "Element name"
+msgid "Menu Dropdown"
+msgstr "選單下拉"
+
+msgctxt "Element name"
+msgid "Mini Cart"
+msgstr "迷你購物車"
+
+msgctxt "Element name"
+msgid "Missing Element"
+msgstr "找不到的元件"
+
+msgctxt "Element name"
+msgid "Notification Bar"
+msgstr "通知列"
+
+msgctxt "Element name"
+msgid "Order Tracking Page"
+msgstr "訂單查詢頁"
+
+msgctxt "Element name"
+msgid "Overlapped Images"
+msgstr "重疊圖片"
+
+msgctxt "Element name"
+msgid "Pagination"
+msgstr "分頁導覽"
+
+msgctxt "Element name"
+msgid "Popup"
+msgstr "彈出視窗"
+
+msgctxt "Element name"
+msgid "Post List"
+msgstr "文章列表"
+
+msgctxt "Element name"
+msgid "Post Loop Builder"
+msgstr "文章迴圈建構器"
+
+msgctxt "Element name"
+msgid "Post Meta"
+msgstr "文章資訊"
+
+msgctxt "Element name"
+msgid "Pricing Table"
+msgstr "價目表"
+
+msgctxt "Element name"
+msgid "Product"
+msgstr "商品"
+
+msgctxt "Element name"
+msgid "Product Builder"
+msgstr "商品頁建構器"
+
+msgctxt "Element name"
+msgid "Product Cart Button"
+msgstr "商品加入購物車按鈕"
+
+msgctxt "Element name"
+msgid "Product Images"
+msgstr "商品圖片"
+
+msgctxt "Element name"
+msgid "Product Info"
+msgstr "商品資訊"
+
+msgctxt "Element name"
+msgid "Product Meta"
+msgstr "商品規格資訊"
+
+msgctxt "Element name"
+msgid "Product Price"
+msgstr "商品價格"
+
+msgctxt "Element name"
+msgid "Product Rating"
+msgstr "商品評分"
+
+msgctxt "Element name"
+msgid "Product Reviews"
+msgstr "商品評論"
+
+msgctxt "Element name"
+msgid "Product Stock"
+msgstr "商品庫存"
+
+msgctxt "Element name"
+msgid "Product Tabs"
+msgstr "商品頁籤"
+
+msgctxt "Element name"
+msgid "Products List"
+msgstr "商品列表"
+
+msgctxt "Element name"
+msgid "Progress Bar"
+msgstr "進度條"
+
+msgctxt "Element name"
+msgid "Pulse Dot"
+msgstr "脈動圓點"
+
+msgctxt "Element name"
+msgid "Register Form"
+msgstr "註冊表單"
+
+msgctxt "Element name"
+msgid "Related Products"
+msgstr "相關商品"
+
+msgctxt "Element name"
+msgid "Repeater Field"
+msgstr "重複欄位"
+
+msgctxt "Element name"
+msgid "Rich Text"
+msgstr "格式化文字"
+
+msgctxt "Element name"
+msgid "Scroll Progress"
+msgstr "捲動進度"
+
+msgctxt "Element name"
+msgid "Scrolling Image"
+msgstr "捲動圖片"
+
+msgctxt "Element name"
+msgid "Search Form"
+msgstr "搜尋表單"
+
+msgctxt "Element name"
+msgid "Section"
+msgstr "區段"
+
+msgctxt "Element name"
+msgid "Shop Filters"
+msgstr "商店篩選器"
+
+msgctxt "Element name"
+msgid "Shop Page"
+msgstr "商店頁面"
+
+msgctxt "Element name"
+msgid "Shortcode"
+msgstr "短代碼"
+
+msgctxt "Element name"
+msgid "ShortcodeWrapper"
+msgstr "短代碼容器"
+
+msgctxt "Element name"
+msgid "Simple Counter"
+msgstr "簡易計數器"
+
+msgctxt "Element name"
+msgid "Simple Testimonial"
+msgstr "簡易客戶推薦"
+
+msgctxt "Element name"
+msgid "SimpleLayoutPreset"
+msgstr "簡易版面預設樣式"
+
+msgctxt "Element name"
+msgid "SliderOptionsPreset"
+msgstr "輪播選項預設樣式"
+
+msgctxt "Element name"
+msgid "Social Icons"
+msgstr "社群圖示"
+
+msgctxt "Element name"
+msgid "Social Share Buttons"
+msgstr "社群分享按鈕"
+
+msgctxt "Element name"
+msgid "Star Rating"
+msgstr "星級評分"
+
+msgctxt "Element name"
+msgid "Stats Grid"
+msgstr "數據格"
+
+msgctxt "Element name"
+msgid "Tab Content"
+msgstr "頁籤內容"
+
+msgctxt "Element name"
+msgid "Tab Link"
+msgstr "頁籤連結"
+
+msgctxt "Element name"
+msgid "Table Of Contents"
+msgstr "目錄"
+
+msgctxt "Element name"
+msgid "Tabs"
+msgstr "頁籤"
+
+msgctxt "Element name"
+msgid "Template Content Area"
+msgstr "模板內容區域"
+
+msgctxt "Element name"
+msgid "Term Loop Builder"
+msgstr "分類項目迴圈建構器"
+
+msgctxt "Element name"
+msgid "Text"
+msgstr "文字"
+
+msgctxt "Element name"
+msgid "Text Link"
+msgstr "文字連結"
+
+msgctxt "Element name"
+msgid "Tooltip"
+msgstr "提示框"
+
+msgctxt "Element name"
+msgid "Twitter Button"
+msgstr "Twitter 按鈕"
+
+msgctxt "Element name"
+msgid "Twitter Embed Tweet"
+msgstr "Twitter 嵌入推文"
+
+msgctxt "Element name"
+msgid "Twitter Timeline"
+msgstr "Twitter 時間軸"
+
+msgctxt "Element name"
+msgid "Upsell Products"
+msgstr "推薦升級商品"
+
+msgctxt "Element name"
+msgid "Video"
+msgstr "影片"
+
+msgctxt "Element name"
+msgid "WP Menu"
+msgstr "WP 選單"
+
+msgctxt "Element name"
+msgid "Widget"
+msgstr "小工具"
+
+msgctxt "Element name"
+msgid "Woo Breadcrumb"
+msgstr "Woo 麵包屑導覽"
+
+msgctxt "Element name"
+msgid "Woo Widget"
+msgstr "Woo 小工具"
+
+msgctxt "Element name"
+msgid "WooGlobalStyler"
+msgstr "Woo 全域樣式設定"
+
+msgctxt "Element name"
+msgid "WooPresetInputs"
+msgstr "Woo 輸入欄預設樣式"
+
+msgctxt "Element name"
+msgid "WooPresetStock"
+msgstr "Woo 庫存預設樣式"
+
+msgctxt "Element name"
+msgid "Wrapper Link"
+msgstr "外框容器連結"
+
+msgid "Enable"
+msgstr "啟用"
+
+msgid "End"
+msgstr "結束"
+
+msgid "Everywhere"
+msgstr "所有位置"
+
+msgid "Fallback"
+msgstr "備援"
+
+msgid "Fallback Image"
+msgstr "備援圖片"
+
+msgid "Field"
+msgstr "欄位"
+
+msgid "Fill"
+msgstr "填滿"
+
+msgid "Filter"
+msgstr "篩選"
+
+msgid "Font Weight"
+msgstr "字重"
+
+msgid "Footer"
+msgstr "頁尾"
+
+msgid "Footers"
+msgstr "頁尾"
+
+msgid "Form"
+msgstr "表單"
+
+msgid "Forms"
+msgstr "表單"
+
+msgid "Full Width"
+msgstr "滿版寬度"
+
+msgid "Gap"
+msgstr "間距"
+
+msgid "Get Pro"
+msgstr "升級 Pro"
+
+msgid "Global Block"
+msgstr "全域區塊"
+
+msgid "Gradient"
+msgstr "漸層"
+
+msgid "Grid"
+msgstr "格線"
+
+msgid "H1"
+msgstr "H1"
+
+msgid "H2"
+msgstr "H2"
+
+msgid "H3"
+msgstr "H3"
+
+msgid "H4"
+msgstr "H4"
+
+msgid "H5"
+msgstr "H5"
+
+msgid "H6"
+msgstr "H6"
+
+msgid "Header"
+msgstr "頁首"
+
+msgid "Headers"
+msgstr "頁首"
+
+msgid "Headings"
+msgstr "標題"
+
+msgid "Height"
+msgstr "高度"
+
+msgid "Hide"
+msgstr "隱藏"
+
+msgid "Horizontal"
+msgstr "水平"
+
+msgid "Hover"
+msgstr "滑鼠移入"
+
+msgid "Icon"
+msgstr "圖示"
+
+msgid "Image"
+msgstr "圖片"
+
+msgid "Import Settings"
+msgstr "匯入設定"
+
+msgid "Inactive"
+msgstr "未啟用"
+
+msgid "Interactions"
+msgstr "互動效果"
+
+msgctxt "Item label"
+msgid "Email"
+msgstr "電子郵件"
+
+msgctxt "Item label"
+msgid "Message"
+msgstr "訊息"
+
+msgctxt "Item label"
+msgid "Name"
+msgstr "名稱"
+
+msgctxt "Item text"
+msgid "Accordion"
+msgstr "摺疊面板"
+
+msgctxt "Item text"
+msgid "Advanced Slider"
+msgstr "進階輪播"
+
+msgctxt "Item text"
+msgid "After"
+msgstr "之後"
+
+msgctxt "Item text"
+msgid "After Features"
+msgstr "特色之後"
+
+msgctxt "Item text"
+msgid "After Title"
+msgstr "標題之後"
+
+msgctxt "Item text"
+msgid "Alert"
+msgstr "警告訊息"
+
+msgctxt "Item text"
+msgid "All"
+msgstr "全部"
+
+msgctxt "Item text"
+msgid "All Posts"
+msgstr "所有文章"
+
+msgctxt "Item text"
+msgid "Animation"
+msgstr "動畫"
+
+msgctxt "Item text"
+msgid "Arrow"
+msgstr "箭頭"
+
+msgctxt "Item text"
+msgid "Arrows"
+msgstr "箭頭"
+
+msgctxt "Item text"
+msgid "Ascending"
+msgstr "由小到大"
+
+msgctxt "Item text"
+msgid "Author"
+msgstr "作者"
+
+msgctxt "Item text"
+msgid "Background"
+msgstr "背景"
+
+msgctxt "Item text"
+msgid "Baseline"
+msgstr "基線"
+
+msgctxt "Item text"
+msgid "Before"
+msgstr "之前"
+
+msgctxt "Item text"
+msgid "Blur"
+msgstr "模糊"
+
+msgctxt "Item text"
+msgid "Both"
+msgstr "兩者皆是"
+
+msgctxt "Item text"
+msgid "Bottom"
+msgstr "下"
+
+msgctxt "Item text"
+msgid "Box"
+msgstr "方塊"
+
+msgctxt "Item text"
+msgid "Bullets"
+msgstr "項目符號"
+
+msgctxt "Item text"
+msgid "Button"
+msgstr "按鈕"
+
+msgctxt "Item text"
+msgid "Cart"
+msgstr "購物車"
+
+msgctxt "Item text"
+msgid "Categories"
+msgstr "分類"
+
+msgctxt "Item text"
+msgid "Center"
+msgstr "置中"
+
+msgctxt "Item text"
+msgid "Circle"
+msgstr "圓形"
+
+msgctxt "Item text"
+msgid "Collapse"
+msgstr "收合"
+
+msgctxt "Item text"
+msgid "Color"
+msgstr "顏色"
+
+msgctxt "Item text"
+msgid "Comment"
+msgstr "留言"
+
+msgctxt "Item text"
+msgid "Comments"
+msgstr "留言"
+
+msgctxt "Item text"
+msgid "Content"
+msgstr "內容"
+
+msgctxt "Item text"
+msgid "Corners"
+msgstr "圓角"
+
+msgctxt "Item text"
+msgid "Coverflow"
+msgstr "Coverflow"
+
+msgctxt "Item text"
+msgid "Custom"
+msgstr "自訂"
+
+msgctxt "Item text"
+msgid "Custom Text"
+msgstr "自訂文字"
+
+msgctxt "Item text"
+msgid "Custom URL"
+msgstr "自訂網址"
+
+msgctxt "Item text"
+msgid "Date"
+msgstr "日期"
+
+msgctxt "Item text"
+msgid "Default"
+msgstr "預設"
+
+msgctxt "Item text"
+msgid "Descending"
+msgstr "由大到小"
+
+msgctxt "Item text"
+msgid "Design"
+msgstr "設計"
+
+msgctxt "Item text"
+msgid "Desktop Menu"
+msgstr "電腦版選單"
+
+msgctxt "Item text"
+msgid "Disable"
+msgstr "停用"
+
+msgctxt "Item text"
+msgid "Disabled"
+msgstr "已停用"
+
+msgctxt "Item text"
+msgid "Donut"
+msgstr "圓環"
+
+msgctxt "Item text"
+msgid "Dropdown"
+msgstr "下拉選單"
+
+msgctxt "Item text"
+msgid "Edit"
+msgstr "編輯"
+
+msgctxt "Item text"
+msgid "Email"
+msgstr "電子郵件"
+
+msgctxt "Item text"
+msgid "Emoji"
+msgstr "表情符號"
+
+msgctxt "Item text"
+msgid "Enable"
+msgstr "啟用"
+
+msgctxt "Item text"
+msgid "End"
+msgstr "結束"
+
+msgctxt "Item text"
+msgid "Excerpt"
+msgstr "摘要"
+
+msgctxt "Item text"
+msgid "Fill"
+msgstr "填滿"
+
+msgctxt "Item text"
+msgid "Flip"
+msgstr "翻轉"
+
+msgctxt "Item text"
+msgid "Fraction"
+msgstr "分數式"
+
+msgctxt "Item text"
+msgid "From Library"
+msgstr "從設計庫"
+
+msgctxt "Item text"
+msgid "Full"
+msgstr "完整"
+
+msgctxt "Item text"
+msgid "Full Width"
+msgstr "滿版寬度"
+
+msgctxt "Item text"
+msgid "Global Block"
+msgstr "全域區塊"
+
+msgctxt "Item text"
+msgid "Gradient"
+msgstr "漸層"
+
+msgctxt "Item text"
+msgid "Grid"
+msgstr "格線"
+
+msgctxt "Item text"
+msgid "H1"
+msgstr "H1"
+
+msgctxt "Item text"
+msgid "H2"
+msgstr "H2"
+
+msgctxt "Item text"
+msgid "H3"
+msgstr "H3"
+
+msgctxt "Item text"
+msgid "H4"
+msgstr "H4"
+
+msgctxt "Item text"
+msgid "H5"
+msgstr "H5"
+
+msgctxt "Item text"
+msgid "H6"
+msgstr "H6"
+
+msgctxt "Item text"
+msgid "Hashtag"
+msgstr "主題標籤"
+
+msgctxt "Item text"
+msgid "Height"
+msgstr "高度"
+
+msgctxt "Item text"
+msgid "Horizontal"
+msgstr "水平"
+
+msgctxt "Item text"
+msgid "Hover"
+msgstr "滑鼠移入"
+
+msgctxt "Item text"
+msgid "Icon"
+msgstr "圖示"
+
+msgctxt "Item text"
+msgid "Image"
+msgstr "圖片"
+
+msgctxt "Item text"
+msgid "Infinite"
+msgstr "無限"
+
+msgctxt "Item text"
+msgid "Info"
+msgstr "資訊"
+
+msgctxt "Item text"
+msgid "Label"
+msgstr "標籤"
+
+msgctxt "Item text"
+msgid "Large"
+msgstr "大"
+
+msgctxt "Item text"
+msgid "Lazy Load"
+msgstr "延遲載入"
+
+msgctxt "Item text"
+msgid "Lazy load"
+msgstr "延遲載入"
+
+msgctxt "Item text"
+msgid "Left"
+msgstr "左"
+
+msgctxt "Item text"
+msgid "Lightbox"
+msgstr "燈箱"
+
+msgctxt "Item text"
+msgid "Line"
+msgstr "線條"
+
+msgctxt "Item text"
+msgid "Linear"
+msgstr "線性"
+
+msgctxt "Item text"
+msgid "Link"
+msgstr "連結"
+
+msgctxt "Item text"
+msgid "Mobile Menu"
+msgstr "手機版選單"
+
+msgctxt "Item text"
+msgid "Multiple"
+msgstr "多選"
+
+msgctxt "Item text"
+msgid "Never"
+msgstr "永不"
+
+msgctxt "Item text"
+msgid "None"
+msgstr "無"
+
+msgctxt "Item text"
+msgid "Outline"
+msgstr "外框線"
+
+msgctxt "Item text"
+msgid "Outside"
+msgstr "外部"
+
+msgctxt "Item text"
+msgid "Overlap"
+msgstr "重疊"
+
+msgctxt "Item text"
+msgid "Page"
+msgstr "頁面"
+
+msgctxt "Item text"
+msgid "Preset"
+msgstr "預設樣式"
+
+msgctxt "Item text"
+msgid "Price"
+msgstr "價格"
+
+msgctxt "Item text"
+msgid "Primary"
+msgstr "主要"
+
+msgctxt "Item text"
+msgid "Products"
+msgstr "商品"
+
+msgctxt "Item text"
+msgid "Progress Bar"
+msgstr "進度條"
+
+msgctxt "Item text"
+msgid "Query"
+msgstr "查詢"
+
+msgctxt "Item text"
+msgid "Random"
+msgstr "隨機"
+
+msgctxt "Item text"
+msgid "Redirect"
+msgstr "轉向"
+
+msgctxt "Item text"
+msgid "Right"
+msgstr "右"
+
+msgctxt "Item text"
+msgid "Rotate"
+msgstr "旋轉"
+
+msgctxt "Item text"
+msgid "Rotating"
+msgstr "旋轉中"
+
+msgctxt "Item text"
+msgid "Scroll Progress"
+msgstr "捲動進度"
+
+msgctxt "Item text"
+msgid "Secondary"
+msgstr "次要"
+
+msgctxt "Item text"
+msgid "Section"
+msgstr "區段"
+
+msgctxt "Item text"
+msgid "Share"
+msgstr "分享"
+
+msgctxt "Item text"
+msgid "Shop Page"
+msgstr "商店頁面"
+
+msgctxt "Item text"
+msgid "Slide"
+msgstr "輪播項目"
+
+msgctxt "Item text"
+msgid "Slider"
+msgstr "輪播"
+
+msgctxt "Item text"
+msgid "Slideshow"
+msgstr "輪播播放"
+
+msgctxt "Item text"
+msgid "Small"
+msgstr "小"
+
+msgctxt "Item text"
+msgid "Solid"
+msgstr "實色"
+
+msgctxt "Item text"
+msgid "Space"
+msgstr "間距"
+
+msgctxt "Item text"
+msgid "Space Around"
+msgstr "環繞平均分佈"
+
+msgctxt "Item text"
+msgid "Space Between"
+msgstr "兩端對齊分佈"
+
+msgctxt "Item text"
+msgid "Stacked"
+msgstr "堆疊"
+
+msgctxt "Item text"
+msgid "Standard"
+msgstr "標準"
+
+msgctxt "Item text"
+msgid "Stars"
+msgstr "星級"
+
+msgctxt "Item text"
+msgid "Start"
+msgstr "開始"
+
+msgctxt "Item text"
+msgid "Stretch"
+msgstr "延展"
+
+msgctxt "Item text"
+msgid "Success"
+msgstr "成功"
+
+msgctxt "Item text"
+msgid "Tab Content"
+msgstr "頁籤內容"
+
+msgctxt "Item text"
+msgid "Tags"
+msgstr "標籤"
+
+msgctxt "Item text"
+msgid "Text"
+msgstr "文字"
+
+msgctxt "Item text"
+msgid "Thumbnails"
+msgstr "縮圖"
+
+msgctxt "Item text"
+msgid "Top"
+msgstr "上"
+
+msgctxt "Item text"
+msgid "Typing"
+msgstr "打字"
+
+msgctxt "Item text"
+msgid "Vertical"
+msgstr "垂直"
+
+msgctxt "Item text"
+msgid "Video"
+msgstr "影片"
+
+msgctxt "Item text"
+msgid "Vimeo"
+msgstr "Vimeo"
+
+msgctxt "Item text"
+msgid "Warning"
+msgstr "警告"
+
+msgctxt "Item text"
+msgid "Wave"
+msgstr "波浪"
+
+msgctxt "Item text"
+msgid "Website"
+msgstr "網站"
+
+msgctxt "Item text"
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+msgctxt "Item text"
+msgid "YouTube"
+msgstr "YouTube"
+
+msgctxt "Item text"
+msgid "Zoom"
+msgstr "縮放"
+
+msgctxt "Item text"
+msgid "left"
+msgstr "left"
+
+msgctxt "Item text"
+msgid "right"
+msgstr "right"
+
+msgid "Items"
+msgstr "項目"
+
+msgid "Label"
+msgstr "標籤"
+
+msgid "Layout"
+msgstr "版面"
+
+msgid "Layout (Basic Flex)"
+msgstr "版面（基本 Flex）"
+
+msgid "Left"
+msgstr "左"
+
+msgid "Lightbox"
+msgstr "燈箱"
+
+msgid "Line"
+msgstr "線條"
+
+msgid "Link"
+msgstr "連結"
+
+msgid "Links"
+msgstr "連結"
+
+msgid "Margin"
+msgstr "外距"
+
+msgid "Margin Bottom"
+msgstr "下外距"
+
+msgid "Margin Top"
+msgstr "上外距"
+
+msgid "Max Height"
+msgstr "最大高度"
+
+msgid "Max Width"
+msgstr "最大寬度"
+
+msgid "Medium"
+msgstr "中"
+
+msgid "Min Height"
+msgstr "最小高度"
+
+msgid "Mode"
+msgstr "模式"
+
+msgid "Month"
+msgstr "月"
+
+msgid "Name"
+msgstr "名稱"
+
+msgid "New Tab"
+msgstr "新分頁"
+
+msgid "Next Slide"
+msgstr "下一張"
+
+msgid "None"
+msgstr "無"
+
+msgid "Nudge"
+msgstr "微調"
+
+msgid "Nudge X"
+msgstr "X 微調"
+
+msgid "Nudge Y"
+msgstr "Y 微調"
+
+msgid "Number"
+msgstr "數字"
+
+msgid "Offset"
+msgstr "位移"
+
+msgid "Opacity"
+msgstr "透明度"
+
+msgid "Open"
+msgstr "開啟"
+
+msgid "Options"
+msgstr "選項"
+
+msgid "Other"
+msgstr "其他"
+
+msgid "Override Variables"
+msgstr "覆寫變數"
+
+msgid "Padding"
+msgstr "內距"
+
+msgid "Padding Left"
+msgstr "左內距"
+
+msgid "Page"
+msgstr "頁面"
+
+msgid "Popup"
+msgstr "彈出視窗"
+
+msgid "Popups"
+msgstr "彈出視窗"
+
+msgid "Position"
+msgstr "位置"
+
+msgid "Post"
+msgstr "文章"
+
+msgid "Post Title"
+msgstr "文章標題"
+
+msgid "Post Type"
+msgstr "文章類型"
+
+msgid "Post Types"
+msgstr "文章類型"
+
+msgid "Preset"
+msgstr "預設樣式"
+
+msgid "Preset Name"
+msgstr "預設樣式名稱"
+
+msgctxt "Preset section label"
+msgid "Additional Info"
+msgstr "其他資訊"
+
+msgctxt "Preset section label"
+msgid "Additional Section"
+msgstr "附加區段"
+
+msgctxt "Preset section label"
+msgid "All Posts"
+msgstr "所有文章"
+
+msgctxt "Preset section label"
+msgid "Amount"
+msgstr "數量"
+
+msgctxt "Preset section label"
+msgid "Attribute Title"
+msgstr "屬性標題"
+
+msgctxt "Preset section label"
+msgid "Attribute Value"
+msgstr "屬性值"
+
+msgctxt "Preset section label"
+msgid "Author"
+msgstr "作者"
+
+msgctxt "Preset section label"
+msgid "Author Info"
+msgstr "作者資訊"
+
+msgctxt "Preset section label"
+msgid "Background"
+msgstr "背景"
+
+msgctxt "Preset section label"
+msgid "Before Price"
+msgstr "價格之前"
+
+msgctxt "Preset section label"
+msgid "Before Text"
+msgstr "文字之前"
+
+msgctxt "Preset section label"
+msgid "Billing Details"
+msgstr "帳單資料"
+
+msgctxt "Preset section label"
+msgid "Biography"
+msgstr "個人簡介"
+
+msgctxt "Preset section label"
+msgid "Borders"
+msgstr "邊框"
+
+msgctxt "Preset section label"
+msgid "Both"
+msgstr "兩者皆是"
+
+msgctxt "Preset section label"
+msgid "Button"
+msgstr "按鈕"
+
+msgctxt "Preset section label"
+msgid "Cart Contents"
+msgstr "購物車內容"
+
+msgctxt "Preset section label"
+msgid "Columns"
+msgstr "多欄"
+
+msgctxt "Preset section label"
+msgid "Comment"
+msgstr "留言"
+
+msgctxt "Preset section label"
+msgid "Container"
+msgstr "容器"
+
+msgctxt "Preset section label"
+msgid "Content"
+msgstr "內容"
+
+msgctxt "Preset section label"
+msgid "Contents"
+msgstr "內容"
+
+msgctxt "Preset section label"
+msgid "Count Typography"
+msgstr "數字文字樣式"
+
+msgctxt "Preset section label"
+msgid "Coupon"
+msgstr "優惠券"
+
+msgctxt "Preset section label"
+msgid "Cross Sells"
+msgstr "交叉銷售"
+
+msgctxt "Preset section label"
+msgid "Currency"
+msgstr "貨幣"
+
+msgctxt "Preset section label"
+msgid "Current Price"
+msgstr "目前售價"
+
+msgctxt "Preset section label"
+msgid "Current Price Typography"
+msgstr "目前售價文字樣式"
+
+msgctxt "Preset section label"
+msgid "Cursor Style"
+msgstr "游標樣式"
+
+msgctxt "Preset section label"
+msgid "Date"
+msgstr "日期"
+
+msgctxt "Preset section label"
+msgid "Day"
+msgstr "日"
+
+msgctxt "Preset section label"
+msgid "Day Accent"
+msgstr "日期強調色"
+
+msgctxt "Preset section label"
+msgid "Default"
+msgstr "預設"
+
+msgctxt "Preset section label"
+msgid "Delimiter Typography"
+msgstr "分隔符號文字樣式"
+
+msgctxt "Preset section label"
+msgid "Description"
+msgstr "說明"
+
+msgctxt "Preset section label"
+msgid "Destructive Buttons"
+msgstr "危險操作按鈕"
+
+msgctxt "Preset section label"
+msgid "Digits"
+msgstr "位數"
+
+msgctxt "Preset section label"
+msgid "Elements"
+msgstr "元件"
+
+msgctxt "Preset section label"
+msgid "Expired Message"
+msgstr "到期訊息"
+
+msgctxt "Preset section label"
+msgid "Features"
+msgstr "特色"
+
+msgctxt "Preset section label"
+msgid "Filter"
+msgstr "篩選"
+
+msgctxt "Preset section label"
+msgid "Filter Bar"
+msgstr "篩選列"
+
+msgctxt "Preset section label"
+msgid "Filters"
+msgstr "篩選器"
+
+msgctxt "Preset section label"
+msgid "Form"
+msgstr "表單"
+
+msgctxt "Preset section label"
+msgid "Form Heading"
+msgstr "表單標題"
+
+msgctxt "Preset section label"
+msgid "Forms"
+msgstr "表單"
+
+msgctxt "Preset section label"
+msgid "Fraction"
+msgstr "分數式"
+
+msgctxt "Preset section label"
+msgid "Fractional Part"
+msgstr "小數部分"
+
+msgctxt "Preset section label"
+msgid "Global Styles Override"
+msgstr "全域樣式覆寫"
+
+msgctxt "Preset section label"
+msgid "Graphic"
+msgstr "圖形"
+
+msgctxt "Preset section label"
+msgid "Grouped Product Title"
+msgstr "群組商品標題"
+
+msgctxt "Preset section label"
+msgid "H1"
+msgstr "H1"
+
+msgctxt "Preset section label"
+msgid "H2"
+msgstr "H2"
+
+msgctxt "Preset section label"
+msgid "H3"
+msgstr "H3"
+
+msgctxt "Preset section label"
+msgid "H4"
+msgstr "H4"
+
+msgctxt "Preset section label"
+msgid "Heading"
+msgstr "標題"
+
+msgctxt "Preset section label"
+msgid "Headings"
+msgstr "標題"
+
+msgctxt "Preset section label"
+msgid "Icon"
+msgstr "圖示"
+
+msgctxt "Preset section label"
+msgid "Icons"
+msgstr "圖示"
+
+msgctxt "Preset section label"
+msgid "In Stock"
+msgstr "有庫存"
+
+msgctxt "Preset section label"
+msgid "Item"
+msgstr "項目"
+
+msgctxt "Preset section label"
+msgid "Label"
+msgstr "標籤"
+
+msgctxt "Preset section label"
+msgid "Label Typography"
+msgstr "標籤文字樣式"
+
+msgctxt "Preset section label"
+msgid "Labels"
+msgstr "標籤"
+
+msgctxt "Preset section label"
+msgid "Last Item"
+msgstr "最後一個項目"
+
+msgctxt "Preset section label"
+msgid "Layout"
+msgstr "版面"
+
+msgctxt "Preset section label"
+msgid "Layout (Basic Flex)"
+msgstr "版面（基本 Flex）"
+
+msgctxt "Preset section label"
+msgid "Level 1"
+msgstr "第 1 層"
+
+msgctxt "Preset section label"
+msgid "Level 2"
+msgstr "第 2 層"
+
+msgctxt "Preset section label"
+msgid "Level 3"
+msgstr "第 3 層"
+
+msgctxt "Preset section label"
+msgid "Lightbox"
+msgstr "燈箱"
+
+msgctxt "Preset section label"
+msgid "Link"
+msgstr "連結"
+
+msgctxt "Preset section label"
+msgid "Links"
+msgstr "連結"
+
+msgctxt "Preset section label"
+msgid "List"
+msgstr "清單"
+
+msgctxt "Preset section label"
+msgid "Meta"
+msgstr "文章資訊"
+
+msgctxt "Preset section label"
+msgid "Name"
+msgstr "名稱"
+
+msgctxt "Preset section label"
+msgid "Next Button"
+msgstr "下一個按鈕"
+
+msgctxt "Preset section label"
+msgid "Next Button (deprecated)"
+msgstr "下一個按鈕（已淘汰）"
+
+msgctxt "Preset section label"
+msgid "Notices"
+msgstr "通知訊息"
+
+msgctxt "Preset section label"
+msgid "Number"
+msgstr "數字"
+
+msgctxt "Preset section label"
+msgid "Occupation"
+msgstr "職稱"
+
+msgctxt "Preset section label"
+msgid "Old Price"
+msgstr "原價"
+
+msgctxt "Preset section label"
+msgid "Old Price Typography"
+msgstr "原價文字樣式"
+
+msgctxt "Preset section label"
+msgid "Overlay"
+msgstr "覆蓋層"
+
+msgctxt "Preset section label"
+msgid "Override Global Styles"
+msgstr "覆寫全域樣式"
+
+msgctxt "Preset section label"
+msgid "Padding"
+msgstr "內距"
+
+msgctxt "Preset section label"
+msgid "Pagination"
+msgstr "分頁導覽"
+
+msgctxt "Preset section label"
+msgid "Paragraph"
+msgstr "段落"
+
+msgctxt "Preset section label"
+msgid "Payment"
+msgstr "付款"
+
+msgctxt "Preset section label"
+msgid "Payment Info"
+msgstr "付款資訊"
+
+msgctxt "Preset section label"
+msgid "Percent Counter"
+msgstr "百分比計數器"
+
+msgctxt "Preset section label"
+msgid "Period"
+msgstr "週期"
+
+msgctxt "Preset section label"
+msgid "Post Title"
+msgstr "文章標題"
+
+msgctxt "Preset section label"
+msgid "Prefix"
+msgstr "前綴"
+
+msgctxt "Preset section label"
+msgid "Previous Button"
+msgstr "上一個按鈕"
+
+msgctxt "Preset section label"
+msgid "Previous Button (deprecated)"
+msgstr "上一個按鈕（已淘汰）"
+
+msgctxt "Preset section label"
+msgid "Price"
+msgstr "價格"
+
+msgctxt "Preset section label"
+msgid "Prices"
+msgstr "價格"
+
+msgctxt "Preset section label"
+msgid "Primary"
+msgstr "主要"
+
+msgctxt "Preset section label"
+msgid "Primary Buttons"
+msgstr "主要按鈕"
+
+msgctxt "Preset section label"
+msgid "Product Title"
+msgstr "商品名稱"
+
+msgctxt "Preset section label"
+msgid "Product Wrapper"
+msgstr "商品外框"
+
+msgctxt "Preset section label"
+msgid "Quantity"
+msgstr "數量"
+
+msgctxt "Preset section label"
+msgid "Review"
+msgstr "評論"
+
+msgctxt "Preset section label"
+msgid "Secondary"
+msgstr "次要"
+
+msgctxt "Preset section label"
+msgid "Secondary Buttons"
+msgstr "次要按鈕"
+
+msgctxt "Preset section label"
+msgid "Separator"
+msgstr "分隔符號"
+
+msgctxt "Preset section label"
+msgid "Shape Dividers"
+msgstr "造型分隔"
+
+msgctxt "Preset section label"
+msgid "Shipping Address"
+msgstr "收件地址"
+
+msgctxt "Preset section label"
+msgid "Size"
+msgstr "尺寸"
+
+msgctxt "Preset section label"
+msgid "Slider"
+msgstr "輪播"
+
+msgctxt "Preset section label"
+msgid "Spacing"
+msgstr "間距"
+
+msgctxt "Preset section label"
+msgid "Stock Quantity"
+msgstr "庫存數量"
+
+msgctxt "Preset section label"
+msgid "Style"
+msgstr "樣式"
+
+msgctxt "Preset section label"
+msgid "Styles"
+msgstr "樣式"
+
+msgctxt "Preset section label"
+msgid "Styles (deprecated)"
+msgstr "樣式（已淘汰）"
+
+msgctxt "Preset section label"
+msgid "Sub Labels"
+msgstr "副標籤"
+
+msgctxt "Preset section label"
+msgid "Suffix"
+msgstr "後綴"
+
+msgctxt "Preset section label"
+msgid "Table Heading"
+msgstr "表格標題"
+
+msgctxt "Preset section label"
+msgid "Tabs"
+msgstr "頁籤"
+
+msgctxt "Preset section label"
+msgid "Testimonial"
+msgstr "客戶推薦"
+
+msgctxt "Preset section label"
+msgid "Text"
+msgstr "文字"
+
+msgctxt "Preset section label"
+msgid "Text Typography"
+msgstr "文字樣式"
+
+msgctxt "Preset section label"
+msgid "Time"
+msgstr "時間"
+
+msgctxt "Preset section label"
+msgid "Time Accent"
+msgstr "時間強調色"
+
+msgctxt "Preset section label"
+msgid "Title"
+msgstr "標題"
+
+msgctxt "Preset section label"
+msgid "Title Typography"
+msgstr "標題文字樣式"
+
+msgctxt "Preset section label"
+msgid "Titles"
+msgstr "標題"
+
+msgctxt "Preset section label"
+msgid "Tooltip"
+msgstr "提示框"
+
+msgctxt "Preset section label"
+msgid "Total Label"
+msgstr "合計標籤"
+
+msgctxt "Preset section label"
+msgid "Total Value"
+msgstr "合計金額"
+
+msgctxt "Preset section label"
+msgid "Totals"
+msgstr "合計"
+
+msgctxt "Preset section label"
+msgid "Typography"
+msgstr "文字樣式"
+
+msgctxt "Preset section label"
+msgid "Username"
+msgstr "使用者名稱"
+
+msgctxt "Preset section label"
+msgid "Value"
+msgstr "值"
+
+msgctxt "Preset section label"
+msgid "Values"
+msgstr "值"
+
+msgctxt "Preset section label"
+msgid "Website"
+msgstr "網站"
+
+msgctxt "Preset section label"
+msgid "Wrapper"
+msgstr "外框容器"
+
+msgctxt "Preset section label"
+msgid "Your Order"
+msgstr "你的訂單"
+
+msgid "Presets"
+msgstr "預設樣式"
+
+msgid "Previous Slide"
+msgstr "上一張"
+
+msgid "Price"
+msgstr "價格"
+
+msgid "Price Filter"
+msgstr "價格篩選"
+
+msgid "Primary"
+msgstr "主要"
+
+msgid "Product"
+msgstr "商品"
+
+msgid "Product Rating"
+msgstr "商品評分"
+
+msgid "Product Stock"
+msgstr "商品庫存"
+
+msgid "Product Title"
+msgstr "商品名稱"
+
+msgid "Products"
+msgstr "商品"
+
+msgid "Radius"
+msgstr "圓角半徑"
+
+msgid "Rating"
+msgstr "評分"
+
+msgid "Rating Filter"
+msgstr "評分篩選"
+
+msgid "Ratio"
+msgstr "比例"
+
+msgid "Redirect URL"
+msgstr "轉向網址"
+
+msgid "Regenerate CSS Cache"
+msgstr "重新產生 CSS 快取"
+
+msgid "Repeat"
+msgstr "重複"
+
+msgid "Responsive"
+msgstr "響應式"
+
+msgid "Review Count"
+msgstr "評論數量"
+
+msgid "Revisions"
+msgstr "版本紀錄"
+
+msgid "Right"
+msgstr "右"
+
+msgid "Rotate"
+msgstr "旋轉"
+
+msgid "Rows"
+msgstr "列"
+
+msgid "Scale"
+msgstr "縮放"
+
+msgid "Scroll Offset"
+msgstr "捲動位移"
+
+msgid "Search"
+msgstr "搜尋"
+
+msgid "Search Results"
+msgstr "搜尋結果"
+
+msgid "Secondary"
+msgstr "次要"
+
+msgid "Separator"
+msgstr "分隔符號"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Shadow"
+msgstr "陰影"
+
+msgid "Shape"
+msgstr "形狀"
+
+msgid "Shape Dividers"
+msgstr "造型分隔"
+
+msgid "Shop Filters"
+msgstr "商店篩選器"
+
+msgid "Shortcode"
+msgstr "短代碼"
+
+msgid "Singular"
+msgstr "單數"
+
+msgid "Size"
+msgstr "尺寸"
+
+msgid "Source"
+msgstr "來源"
+
+msgid "Space After"
+msgstr "之後間距"
+
+msgid "Space Around"
+msgstr "環繞平均分佈"
+
+msgid "Space Between"
+msgstr "兩端對齊分佈"
+
+msgid "Spacing"
+msgstr "間距"
+
+msgid "Specific Product Archive"
+msgstr "指定商品彙整頁"
+
+msgid "Speed"
+msgstr "速度"
+
+msgid "Stack"
+msgstr "堆疊"
+
+msgid "Start"
+msgstr "開始"
+
+msgid "Sticky"
+msgstr "固定"
+
+msgid "Stretch"
+msgstr "延展"
+
+msgid "Stroke Color"
+msgstr "描邊顏色"
+
+msgid "Stroke Width"
+msgstr "描邊寬度"
+
+msgid "Style"
+msgstr "樣式"
+
+msgid "Styles"
+msgstr "樣式"
+
+msgid "Submit"
+msgstr "送出"
+
+msgid "Tabs"
+msgstr "頁籤"
+
+msgid "Tag"
+msgstr "標籤"
+
+msgid "Tags"
+msgstr "標籤"
+
+msgid "Target"
+msgstr "目標"
+
+msgid "Taxonomy"
+msgstr "分類法"
+
+msgid "Template"
+msgstr "模板"
+
+msgid "Templates"
+msgstr "模板"
+
+msgid "Text"
+msgstr "文字"
+
+msgid "Text Color"
+msgstr "文字顏色"
+
+msgid "Theme"
+msgstr "佈景主題"
+
+msgid "Thickness"
+msgstr "粗細"
+
+msgid "Thumbnails"
+msgstr "縮圖"
+
+msgid "Title"
+msgstr "標題"
+
+msgid "Toggle"
+msgstr "切換"
+
+msgid "Top"
+msgstr "上"
+
+msgid "Trigger"
+msgstr "觸發條件"
+
+msgid "Type"
+msgstr "類型"
+
+msgid "Typography"
+msgstr "文字樣式"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Value"
+msgstr "值"
+
+msgid "Vertical"
+msgstr "垂直"
+
+msgid "Widget"
+msgstr "小工具"
+
+msgid "Widgets"
+msgstr "小工具"
+
+msgid "Width"
+msgstr "寬度"
+
+msgid "Woo Widget"
+msgstr "Woo 小工具"
+
+msgid "Wrapper"
+msgstr "外框容器"
